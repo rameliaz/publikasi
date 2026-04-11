@@ -94,15 +94,17 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 ## Strategi khusus untuk *review articles*
 
 ::: {.incremental}
-* *Scoping* dan *systematic review* punya **nilai tinggi** di komunitas ilmiah — tapi kompetisi juga ketat
-* Sebelum menulis, lakukan **cek duplikasi**: apakah review serupa sudah diterbitkan baru-baru ini?
+* *Scoping* dan *systematic review* punya masih punya tempat di komunitas ilmiah — tapi kompetisi juga ketat
+  - Ada tren _scoping_ dan _systematic review_ lebih sulit diterbitkan karena ada lonjakan tipe artikel yang sama yang berasal dari [_paper mill_](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
+* Sebelum menulis, lakukan **cek duplikasi**: apakah _review_ serupa sudah diterbitkan baru-baru ini?
   * Jika ya → naskah Anda harus punya **nilai tambah** yang jelas
 * *Novelty* bisa datang dari: **populasi berbeda, konteks berbeda, periode lebih baru, metodologi lebih ketat**
-* Beberapa jurnal punya ***section* khusus** untuk review articles — prioritaskan ini
+* Beberapa jurnal punya ***section* khusus** untuk _review articles_ — prioritaskan ini
 :::
 
 ::: {.callout-note}
-**Tips**: Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan diterima sangat baik oleh *reviewer*.
+#### Tips 
+Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan sangat diapresiasi oleh *reviewer*.
 :::
 
 ## Faktor praktis yang sering dilupakan
@@ -130,7 +132,33 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 :::
 
 ::: {.callout-note}
-*Cover letter* yang generik (*copy-paste* dari template) sangat mudah dikenali editor. Tulis *cover letter* yang **spesifik** untuk setiap jurnal yang Anda tuju.
+#### Sebenarnya
+Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyiapkan naskah. _Cover letter_ dapat ditulis LLM.
+:::
+
+## Saat menerima *review*: jangan langsung dibalas
+
+::: {.incremental}
+* Menerima *review* — apalagi yang keras — bisa memicu reaksi emosional yang wajar
+* **Tunggu 1–2 hari** sebelum mulai merespons
+* Baca **semua** komentar *reviewer* terlebih dahulu, baru mulai menyusun respons
+* Identifikasi: mana yang valid, mana yang perlu klarifikasi, mana yang tidak Anda setujui
+* **Jangan pernah membalas dengan nada defensif atau emosional** — bahkan jika *reviewer* keliru
+* Ingat: *reviewer* menyumbangkan waktunya **secara sukarela** tanpa imbalan
+:::
+
+## Merespons *reviewer* dengan baik
+
+::: {.incremental}
+* *Response to reviewers* adalah **keterampilan tersendiri** yang harus dipelajari
+* Prinsip dasar: **_copy-paste_ komentar reviewer, jawab, lalu kutip revisinya di naskah**
+  - **Tunjukkan dengan jelas** di mana dan bagaimana Anda merespons
+* Setiap komentar *reviewer* harus direspons — tidak ada yang boleh diabaikan
+* Jika tidak setuju dengan *reviewer*: boleh, tapi **wajib** berikan argumen yang kuat dan berdasar
+* *Major revision* bukan penolakan — ini kesempatan untuk memperbaiki naskah
+* Berikut contoh _response to reviewers_ yang paling panjang yang pernah saya tulis
+  - **Contoh 1**: [Zein, R. A., Heene, M., & Gollwitzer, M.](libs/response_letter_firstround_final.pdf) (2025). Stage 2 Registered Report: Measuring How Individuals Relate Science to Religion. The International Journal for the Psychology of Religion. https://doi.org/10.1080/10508619.2025.2535033.
+  - **Contoh 2**: [Zein, R. A. & Akhtar, H.](libs/response_letter_final.pdf) (2025). Getting Started with the Graded Response Model (GRM): An introduction and tutorial in R. International Journal of Psychology, 60(1), e13265. https://doi.org/10.1002/ijop.13265
 :::
 
 # Integritas riset dan etika publikasi {background-color="#14497F" .center}

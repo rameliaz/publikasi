@@ -182,10 +182,10 @@ Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sa
 
 ::: {.incremental}
 * Kadang tidak terindeks di pangkalan data manapun
-  * Tapi: ada banyak jurnal palsu yang (sempat) **terindeks Scopus dan/atau WoS (ESCI)**
-* Penerbit tidak jelas dan cenderung **komersil** — tujuannya uang, bukan ilmu
+  * Tapi: ada banyak jurnal palsu yang **terindeks Scopus dan/atau WoS (ESCI)**
+* Penerbit tidak jelas dan cenderung **komersil** — tujuannya keuntungan sebanyak-banyaknya, bukan mewadahi komunikasi kesarjanaan
 * *Impact factor* jadi-jadian (bukan JIF resmi dari Clarivate)
-* Tidak melakukan ***peer-review*** yang sesungguhnya — atau prosesnya sangat singkat dan formalitas
+* Tidak melakukan ***peer-review*** yang sesungguhnya — atau prosesnya sangat singkat dan sekadar formalitas
 * Termasuk dalam **Beall's list** — tapi Beall's list tidak bisa jadi satu-satunya patokan
 :::
 
@@ -251,13 +251,14 @@ Apabila ragu, diskusikan dengan promotor atau staf UP3.
 :::
 
 ::: {.callout-note}
-Waktu proses: 2 minggu (*desk reject*) hingga **12 bulan+** (sejak *submit* hingga terbit). Bersabarlah — ini normal.
+#### Waktu proses 
+2 minggu (*desk reject*) hingga **12 bulan+** (sejak *submit* hingga terbit). _Turnaround time_ saat ini bisa lebih lama karena editor umumnya kesulitan mencari _reviewer_.
 :::
 
 ## *Desk rejection* — angka dan fakta
 
 ::: {.incremental}
-* ***Desk rejection rate*** di jurnal bereputasi bisa mencapai **60–76%** (Billsberry, 2014)
+* ***Desk rejection rate*** di jurnal bereputasi bisa mencapai **60–76%** ([Billsberry, 2014](https://journals.sagepub.com/doi/full/10.1177/1052562913517209))
 * Artinya: mayoritas naskah tidak pernah sampai ke tangan *reviewer*
 * Penyebab utama *desk rejection*:
   * ***Scope* tidak sesuai** — naskah tidak relevan dengan fokus jurnal
@@ -267,7 +268,8 @@ Waktu proses: 2 minggu (*desk reject*) hingga **12 bulan+** (sejak *submit* hing
 :::
 
 ::: {.callout-warning}
-**Catatan penting** (Garand & Harman, 2021): Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih rentan terkena *desk rejection* — ini adalah *gatekeeping* struktural dalam sistem publikasi ilmiah global yang perlu disadari.
+#### Catatan penting ([Garand & Harman, 2021](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/journal-deskrejection-practices-in-political-science-bringing-data-to-bear-on-what-journals-do/770D08D05782CC873E625E873815023A)) 
+Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih rentan terkena *desk rejection* — ini adalah *gatekeeping* struktural dalam sistem publikasi ilmiah global yang perlu disadari.
 :::
 
 ## Siapa saja yang terlibat?
@@ -412,28 +414,6 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 
 ::: {.callout-warning}
 **Penting**: Penolakan (*rejection*) bukan akhir dunia. Banyak paper terkenal pernah ditolak berkali-kali sebelum akhirnya terbit.
-:::
-
-## Saat menerima *review*: jangan langsung dibalas
-
-::: {.incremental}
-* Menerima *review* — apalagi yang keras — bisa memicu reaksi emosional yang wajar
-* **Tunggu 1–2 hari** sebelum mulai merespons
-* Baca **semua** komentar *reviewer* terlebih dahulu, baru mulai menyusun respons
-* Identifikasi: mana yang valid, mana yang perlu klarifikasi, mana yang tidak Anda setujui
-* **Jangan pernah membalas dengan nada defensif atau emosional** — bahkan jika *reviewer* keliru
-* Ingat: *reviewer* menyumbangkan waktunya **secara sukarela** tanpa imbalan
-:::
-
-## Merespons *reviewer* dengan baik
-
-::: {.incremental}
-* *Response to reviewers* adalah **keterampilan tersendiri** yang harus dipelajari
-* Prinsip dasar: **terima kasih dulu, argumen kemudian**
-* Setiap komentar *reviewer* harus direspons — tidak ada yang boleh diabaikan
-* Jika tidak setuju dengan *reviewer*: boleh, tapi **wajib** berikan argumen yang kuat dan berdasar
-* Revisi naskah sesuai masukan yang valid; **tunjukkan dengan jelas** di mana dan bagaimana Anda merespons
-* *Major revision* bukan penolakan — ini kesempatan untuk memperbaiki naskah
 :::
 
 # Menulis *Discussion* dan *Abstract* {background-color="#14497F" .center}

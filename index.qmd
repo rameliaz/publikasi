@@ -43,6 +43,7 @@ Berfokus pada **strategi memilih jurnal**, **integritas riset**, dan **latihan m
 - Strategi memilih jurnal: empat "R" (*relevance, reach, reputation, realism*) dan pertimbangan proses editorial
 - Strategi khusus untuk *review articles*: cek duplikasi, *novelty*, dan registrasi protokol di PROSPERO
 - Menulis *cover letter* yang efektif dan spesifik
+- Menjawab komentar _reviewer_
 - *Scientific misconduct*: dari *overselling* hingga fabrikasi data — dan *hedging language* yang tepat
 - Etika publikasi: kepengarangan, plagiarisme, dan peran promotor
 - Krisis replikasi dan mengapa *open science* penting
