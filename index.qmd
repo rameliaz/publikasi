@@ -1,0 +1,57 @@
+---
+title: "Workshop Penerbitan Ilmiah untuk Mahasiswa Doktoral"
+---
+
+Selamat datang di halaman workshop **Penerbitan Ilmiah** yang diselenggarakan untuk mahasiswa doktoral Program Studi Psikologi, Universitas Airlangga.
+
+## Tentang Workshop
+
+Workshop ini dirancang untuk membekali mahasiswa doktoral dengan pemahaman tentang ekosistem publikasi ilmiah dan strategi untuk mempublikasikan manuskrip — khususnya bagi yang sedang mengerjakan *scoping review* atau *systematic review*.
+
+---
+
+::: {.callout-note}
+#### Unduh materi dalam bentuk PDF 
+Klik _navigation bar_ yang mengarah pada PDF materi, kemudian tekan `ctrl` dan `p` bersamaan. Setelah _window_ untuk _print_ muncul, pilih `Save to PDF` dan klik `Save`.
+:::
+
+## Materi Workshop
+
+### Blok 1: Ekosistem Publikasi Ilmiah
+
+Membahas **bagaimana dunia publikasi ilmiah bekerja** — dari lanskap jurnal dan proses editorial, hingga menulis naskah yang layak terbit.
+
+- Mengapa publikasi itu penting — lebih dari sekadar kewajiban administratif
+- Moda komunikasi kesarjanaan dan jenis artikel ilmiah (*original research*, *systematic review*, *scoping review*, dll.)
+- Lanskap jurnal: penerbit besar, pangkalan data (Scopus, WoS, SINTA), dan perbedaan *open access* vs. *paywalled*
+- Mengenali dan menghindari jurnal *predatory* — ciri-ciri, cara cek, dan prinsip *Think. Check. Submit.*
+- Proses editorial: *submission*, *desk rejection*, *peer-review*, revisi, hingga terbit
+- Struktur naskah ilmiah (IMRAD) dan panduan PRISMA untuk *review articles*
+- Apa yang membuat naskah layak terbit — dimensi konten dan presentasi
+- Menulis *Introduction*: struktur corong, *research gap*, dan model CARS
+- Menulis *Discussion* yang efektif: alur, keterbatasan, dan *null results*
+- Menulis *Abstract*: prinsip satu kalimat per bagian IMRAD
+
+[{{< fa file-powerpoint >}} Buka Materi Blok 1](slides/bagian-1.html){.btn .btn-primary}
+
+---
+
+### Blok 2: Strategi Publikasi & Latihan Menulis
+
+Berfokus pada **strategi memilih jurnal**, **integritas riset**, dan **latihan menulis** untuk mengartikulasikan ide penelitian secara ilmiah.
+
+- Strategi memilih jurnal: empat "R" (*relevance, reach, reputation, realism*) dan pertimbangan proses editorial
+- Strategi khusus untuk *review articles*: cek duplikasi, *novelty*, dan registrasi protokol di PROSPERO
+- Menulis *cover letter* yang efektif dan spesifik
+- *Scientific misconduct*: dari *overselling* hingga fabrikasi data — dan *hedging language* yang tepat
+- Etika publikasi: kepengarangan, plagiarisme, dan peran promotor
+- Krisis replikasi dan mengapa *open science* penting
+- Manajemen data penelitian (RDM): prinsip FAIR, *open data policy* jurnal, dan tempat deposit (OSF, Zenodo)
+- **Latihan menulis**: *elevator pitch* (3–4 kalimat) dan *scientific sell* (1 paragraf)
+- Sumber belajar lanjutan yang direkomendasikan
+
+[{{< fa file-powerpoint >}} Buka Materi Blok 2](slides/bagian-2.html){.btn .btn-primary}
+
+## Evaluasi _workshop_
+
+Setelah _workshop_, peserta dimohon untuk mengisi kuesioner evaluasi yang dapat diakses di _menu bar_ `Survei` bagian pojok kanan atas sebagai bahan evaluasi untuk meningkatkan kualitas materi _workshop_ di masa depan.

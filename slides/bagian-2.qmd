@@ -1,0 +1,422 @@
+---
+title: "Strategi Publikasi & Latihan Menulis"
+subtitle: "_Workshop Penerbitan Ilmiah untuk Mahasiswa Doktoral_: Bagian 2️⃣"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+execute:
+  eval: false
+  echo: false
+---
+
+## *Outline*
+
+* Strategi memilih jurnal yang tepat
+* Integritas riset dan etika publikasi
+* Manajemen data penelitian (*research data management*)
+* Latihan menulis: *elevator pitch* dan *scientific sell*
+* Sumber belajar lanjutan
+
+# Strategi memilih jurnal yang tepat {background-color="#14497F" .center}
+
+## Prinsip dasar: kenali jurnal sebelum *submit*
+
+::: {.incremental}
+* Membaca ***aims & scope*** jurnal **dengan serius** — bukan formalitas yang dilewati
+* Telusuri artikel yang diterbitkan **2–3 tahun terakhir**: apakah topik Anda relevan?
+* Perhatikan **gaya penulisan** dan **struktur** naskah yang diterima di jurnal tersebut
+* Cek ***author guidelines*** dengan cermat sebelum mulai menulis atau merevisi
+* **Satu naskah — satu jurnal** pada satu waktu (*no simultaneous submissions*)
+:::
+
+::: {.callout-warning}
+**Penting**: *Submit* ke jurnal yang *scope*-nya tidak cocok = hampir pasti *desk reject*. Editor bisa langsung melihat ini.
+:::
+
+## Empat "R" dalam memilih jurnal
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+* **Relevance** — apakah topik Anda benar-benar sesuai dengan *scope* jurnal?
+* **Reach** — siapa pembaca jurnal tersebut? Apakah sesuai audiens yang Anda tuju?
+* **Reputation** — bagaimana persepsi komunitas ilmiah terhadap jurnal ini? (bukan hanya *impact factor*)
+* **Realism** — apakah naskah Anda kompetitif untuk jurnal tersebut?
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Bonus R**: **Resources**
+
+Berapa APC? Apakah ada *fee waiver* untuk peneliti dari negara berkembang? Cek dulu — banyak jurnal yang menyediakan waiver tapi tidak dipromosikan secara aktif.
+:::
+:::
+::::
+
+## Metrik bukan ukuran kualitas — hanya heuristik
+
+::: {.incremental}
+* ***Impact Factor* (JIF)**, *quartile* Scopus (Q1–Q4), dan *h-index* adalah **metrik prestise** — bukan ukuran kualitas artikel secara langsung
+* Fungsi praktisnya: membantu **seleksi awal** target jurnal untuk keperluan PAK atau promosi jabatan
+* Yang lebih penting untuk dijadikan dasar:
+  * Apakah komunitas yang Anda tuju **membaca** jurnal ini?
+  * Apakah jurnal ini **menerbitkan artikel sejenis** dengan naskah Anda?
+  * Berapa lama **proses *review*-nya** biasanya?
+:::
+
+::: {.callout-note}
+Rekomendasi yang sering diberikan peneliti senior: ***"Submit* di jurnal yang Anda sitir."** Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan.
+:::
+
+## Pertimbangan proses editorial
+
+::: {.incremental}
+Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
+
+* ***Cakupan (scope)***: baca dengan cermat, jangan hanya mengandalkan nama jurnal
+* **Dewan editor (*editorial board*)**: apakah ada pakar di bidang Anda? Dari institusi terkemuka?
+* **Daftar pustaka Anda**: *submit where you cite* — jurnal yang Anda sitir adalah komunitas yang relevan
+* ***Open research policy***: apakah jurnal mendukung *pre-registration*, *open data*, atau *Registered Reports*?
+* **Rekomendasi kolega/promotor**: tanya kepada peneliti senior yang sudah berpengalaman *submit* ke jurnal tersebut
+:::
+
+::: {.callout-warning}
+**Hindari** memilih jurnal hanya karena *quartile*-nya tinggi atau APC-nya terjangkau. Ketidakcocokan *scope* hampir selalu berakhir dengan *desk reject*.
+:::
+
+## Strategi khusus untuk *review articles*
+
+::: {.incremental}
+* *Scoping* dan *systematic review* punya **nilai tinggi** di komunitas ilmiah — tapi kompetisi juga ketat
+* Sebelum menulis, lakukan **cek duplikasi**: apakah review serupa sudah diterbitkan baru-baru ini?
+  * Jika ya → naskah Anda harus punya **nilai tambah** yang jelas
+* *Novelty* bisa datang dari: **populasi berbeda, konteks berbeda, periode lebih baru, metodologi lebih ketat**
+* Beberapa jurnal punya ***section* khusus** untuk review articles — prioritaskan ini
+:::
+
+::: {.callout-note}
+**Tips**: Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan diterima sangat baik oleh *reviewer*.
+:::
+
+## Faktor praktis yang sering dilupakan
+
+::: {.incremental}
+* ***Turnaround time***: berapa lama biasanya dari *submit* hingga keputusan pertama?
+  * Cek di website jurnal atau tanya kolega yang pernah *submit* ke jurnal tersebut
+* **APC dan *waiver***: banyak jurnal OA bereputasi menyediakan *waiver* untuk penulis dari negara berpenghasilan menengah-bawah
+  * Selalu **tanyakan *waiver*** jika tersedia — jangan malu
+* ***Submission charge***: **RED FLAG** — jurnal bereputasi tidak meminta biaya **sebelum** *peer-review*
+* **Komunikasi editorial**: apakah email dijawab? Apakah ada kontak editorial yang jelas?
+:::
+
+## *Cover letter* — hal pertama yang editor baca
+
+::: {.incremental}
+* *Cover letter* adalah **kesan pertama** — editor membacanya sebelum membuka naskah
+* *Cover letter* yang baik berisi:
+  * **Judul dan jenis artikel** yang diajukan
+  * **Pernyataan singkat** tentang apa yang dilakukan dan mengapa relevan untuk jurnal tersebut
+  * **Kontribusi utama** dalam 2–3 kalimat — apa *novelty*-nya?
+  * **Konfirmasi** bahwa naskah tidak sedang disubmit ke jurnal lain (*no simultaneous submission*)
+  * **Konfirmasi** kelayakan etik (*ethical clearance*) jika relevan
+* Sebutkan secara **eksplisit mengapa naskah ini cocok** untuk jurnal yang dituju
+:::
+
+::: {.callout-note}
+*Cover letter* yang generik (*copy-paste* dari template) sangat mudah dikenali editor. Tulis *cover letter* yang **spesifik** untuk setiap jurnal yang Anda tuju.
+:::
+
+# Integritas riset dan etika publikasi {background-color="#14497F" .center}
+
+## *Scientific misconduct* — 9 lingkaran
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+Dari yang "paling ringan" hingga paling berat:
+
+1. **Limbo** — tidak mempublikasikan hasil penelitian
+2. **Overselling** — mengklaim lebih dari yang data dukung
+3. **Post-hoc storytelling** — narasi yang dibuat-buat setelah melihat data
+4. **P-value fishing** — mencari-cari p < .05 dengan berbagai cara
+5. **Creative outliers** — membuang data yang tidak menyenangkan
+:::
+:::
+::: {.column}
+::: {.incremental}
+6. **Plagiarism** — menyalin tanpa atribusi yang benar
+7. **Non-publication** — sengaja menyembunyikan hasil negatif (*publication bias*)
+8. **Partial publication** — *salami slicing*
+9. **Inventing data** — fabrikasi atau falsifikasi data
+
+*(Adaptasi dari Neuroskeptic, 2012)*
+:::
+:::
+::::
+
+## *Overselling* — jebakan yang paling sering kita lakukan
+
+::: {.incremental}
+* Mengklaim lebih dari yang data bisa dukung adalah *misconduct* yang **paling umum** — dan sering tidak disadari
+* Contoh *overselling* dalam *review articles*:
+  * *"Belum ada penelitian yang membahas ini"* → padahal ada, hanya belum dibaca dengan cermat
+  * *"Penelitian ini membuktikan bahwa X menyebabkan Y"* → review bukan RCT, tidak bisa klaim kausalitas
+  * *"Temuan ini akan mengubah cara pandang dunia"* → terlalu berlebihan untuk diklaim
+* Konsekuensi: **berkontribusi pada *replication crisis*** dan menyesatkan kebijakan publik
+:::
+
+::: {.callout-warning}
+**Ingat**: Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksplorasi..."* ≠ *"Studi ini membuktikan..."*
+:::
+
+## *Hedging language* yang tepat
+
+| **Hindari** | **Lebih baik** |
+|---|---|
+| *"membuktikan bahwa..."* | *"mengindikasikan bahwa..."* / *"konsisten dengan..."* |
+| *"belum ada penelitian..."* | *"sejauh yang diketahui peneliti..."* |
+| *"akan mengubah..."* | *"berpotensi berkontribusi pada..."* |
+| *"semua..."* | *"sebagian besar partisipan dalam studi ini..."* |
+| *"selalu terjadi..."* | *"cenderung terjadi dalam konteks..."* |
+
+: Contoh penggunaan *hedging language* dalam penulisan ilmiah. *Hedging* bukan tanda kelemahan — ini tanda kejujuran ilmiah.
+
+## Etika publikasi yang perlu diperhatikan
+
+::: {.incremental}
+* **Kepengarangan (*authorship*)**: hanya cantumkan nama yang benar-benar **berkontribusi secara substansial**
+  * *Ghost authorship* dan *gift authorship* adalah pelanggaran etika yang serius
+* **Plagiarisme**: parafrase bukan menyalin. Setiap ide yang bukan milik Anda **harus diatribusikan**
+* ***Ethical clearance***: semakin banyak jurnal internasional mensyaratkan ini, bahkan untuk review articles (*PRISMA-P*)
+* **Peran promotor**: supervisor memiliki tanggung jawab etik dalam proses publikasi mahasiswanya — bukan hanya formalitas pencantuman nama
+:::
+
+## Konteks lebih luas: krisis replikasi
+
+::: {.incremental}
+* Studi besar (*Many Labs*, Open Science Collaboration 2015) menunjukkan: **hanya ~36% temuan psikologi sosial** berhasil direplikasi
+* Penyebab utama: *publication bias* (hanya hasil positif yang diterbitkan), *p-hacking*, *overselling*, desain penelitian yang lemah
+* Implikasinya untuk kita sebagai penulis *review*:
+  * **Hati-hati** dengan kesimpulan dari studi tunggal
+  * Pertimbangkan **kualitas metodologi** studi yang Anda review, bukan hanya jumlahnya
+  * *Open science* bukan tren — ini kebutuhan ilmiah
+:::
+
+## *Open science* untuk penulis *review*
+
+::: {.incremental}
+* **Daftarkan protokol** review Anda di PROSPERO atau OSF *sebelum* pengumpulan data
+* **Laporkan proses selengkapnya** — termasuk studi yang tidak memenuhi kriteria, dan mengapa
+* Gunakan ***checklist* PRISMA** dengan jujur dan lengkap
+* **Bagikan data ekstraksi** (*data extraction sheets*) jika memungkinkan — ini *open data*
+* **Laporkan *heterogeneity*** dengan transparan, bukan hanya *pooled estimate*
+:::
+
+::: {.callout-note}
+Praktik *open science* bukan hanya soal etika — ini juga meningkatkan **peluang diterima** di jurnal bereputasi tinggi yang semakin mensyaratkan transparansi.
+:::
+
+# Manajemen data penelitian {background-color="#14497F" .center}
+
+## Apa itu *research data management* (RDM)?
+
+::: {.incremental}
+* RDM adalah praktik terstruktur dalam **mengorganisasi, mendokumentasikan, menyimpan, dan berbagi** data penelitian sepanjang siklus hidupnya
+* Untuk penulis *review articles*, "data" mencakup lebih dari sekadar angka:
+  * **Search string** dan strategi penelusuran yang digunakan
+  * **Keputusan inklusi/eksklusi** (*screening decisions*) di setiap tahap
+  * ***Extraction sheet*** — tabel ekstraksi data dari setiap studi yang dimasukkan
+  * **PRISMA flow diagram** beserta jumlah studi di setiap tahap
+* Prinsip panduan: **FAIR** — data harus *Findable, Accessible, Interoperable, Reusable*
+:::
+
+::: {.callout-note}
+RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan *review* Anda **direplikasi, diperbarui, dan disitasi** oleh peneliti lain.
+:::
+
+## *Open data policy* jurnal — apa yang perlu diketahui?
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+**Tiga level kebijakan yang umum**:
+
+* **Wajib (*required*)** — data harus dideposit sebelum artikel diterbitkan
+* **Didorong (*encouraged*)** — tidak wajib, tapi sangat disarankan dan diberi badge
+* **Tidak disyaratkan** — masih umum di sebagian jurnal, tapi tren bergeser ke arah transparansi
+
+**Tempat deposit yang umum digunakan**:
+
+* [**OSF**](https://osf.io) — cocok untuk *pre-registration* dan seluruh alur *review*
+* [**Zenodo**](https://zenodo.org) — mendukung berbagai format, DOI otomatis
+* [**figshare**](https://figshare.com) — untuk tabel, gambar, dan dataset pelengkap
+* **Repositori institusi** — cek apakah UNAIR menyediakan
+:::
+:::
+::: {.column}
+::: {.callout-warning}
+**Penting**: Sebelum *submit*, baca bagian ***data availability statement*** di *author guidelines*. Banyak jurnal Q1/Q2 kini mensyaratkan pernyataan ini — bahkan jika data tidak dapat dibagikan secara publik, alasannya harus dijelaskan secara eksplisit.
+:::
+
+::: {.callout-note}
+*Sharing* data ekstraksi dan *search string* di OSF atau Zenodo **tidak memerlukan biaya** dan dapat dilakukan sebelum atau bersamaan dengan *submission*.
+:::
+:::
+::::
+
+# Latihan menulis ✍️ {background-color="#14497F" .center}
+
+## Tujuan latihan: yakinkan tanpa berlebihan
+
+::: {.incremental}
+Dua tujuan utama latihan ini:
+
+1. Belajar **mengartikulasikan** minat penelitian dengan jelas dan ringkas
+2. Melatih kemampuan **"menjual" ide secara ilmiah** — *convincing, clear, confident*
+
+Dua prinsip panduan:
+
+* ✅ Buat klaim yang **bisa Anda dukung dengan bukti**
+* ❌ Hindari klaim yang **lebih besar dari yang data Anda miliki**
+
+*Ini bukan tentang menulis yang "bombastis" — ini tentang menulis yang jujur dan meyakinkan sekaligus.*
+:::
+
+## TUGAS 1️⃣: *Elevator Pitch* (15 menit)
+
+Tuliskan minat penelitian Anda dalam **3–4 kalimat**:
+
+::: {.incremental}
+1. **Kalimat 1** — Identifikasi **topik/fenomena** yang Anda teliti
+   *(bukan judul penelitian, tapi masalahnya)*
+2. **Kalimat 2** — Jelaskan **mengapa topik ini perlu diteliti** — apa kesenjangan di literatur?
+3. **Kalimat 3** — Rumuskan **pertanyaan penelitian** Anda secara spesifik
+4. **Kalimat 4** *(opsional)* — Sebutkan **pendekatan** yang Anda gunakan
+   *(scoping review, systematic review, dll.)*
+:::
+
+::: {.callout-note}
+**Tes sederhana**: Bisakah Anda menjelaskan ini kepada seseorang di luar bidang Anda dalam waktu 1 menit, dan mereka memahaminya? Jika ya — bagus!
+:::
+
+## Contoh *elevator pitch* yang baik
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+**Kurang baik** ❌
+
+*"Penelitian saya tentang kesehatan mental. Ini penting karena masalah kesehatan mental banyak terjadi. Saya ingin tahu lebih banyak tentang ini dengan melakukan systematic review."*
+
+Masalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian tidak spesifik.
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Lebih baik** ✅
+
+*"Kecemasan sosial pada mahasiswa perguruan tinggi sering tidak terdiagnosis dan tidak tertangani. Meski prevalensinya diperkirakan tinggi di Asia Tenggara, belum ada tinjauan sistematis yang mengkaji efektivitas intervensi berbasis kampus di kawasan ini. Systematic review ini bertujuan mengidentifikasi jenis intervensi yang tersedia dan mengevaluasi bukti efektivitasnya."*
+:::
+:::
+::::
+
+## TUGAS 2️⃣: *Scientific Sell* (25 menit)
+
+Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
+
+::: {.incremental}
+1. Mengapa topik ini **relevan** secara ilmiah DAN praktis?
+2. Mengapa komunitas ilmiah dan/atau pembuat kebijakan perlu **peduli** dengan pertanyaan penelitian Anda?
+3. Apa yang **belum diketahui** yang ingin Anda ungkap?
+:::
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+**Hindari** ❌
+
+* *"Belum ada yang meneliti ini..."*
+* *"Penelitian ini akan membuktikan..."*
+* Angka yang tidak ada sumbernya
+* Klaim efek sebelum data bicara
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Gunakan** ✅
+
+* Angka/fakta yang bisa diverifikasi
+* Sitasi penelitian sebelumnya
+* *Hedging*: "mengindikasikan...", "cenderung...", "dalam konteks..."
+* Kalimat yang presisi, bukan kalimat yang dramatis
+:::
+:::
+::::
+
+## Diskusi: apa yang berhasil? (20 menit)
+
+Setelah menulis, kita akan berdiskusi bersama:
+
+::: {.incremental}
+* 2–3 peserta **membacakan** paragrafnya kepada kelompok
+* Bersama-sama kita **identifikasi**:
+  * Bagian mana yang **meyakinkan** — dan mengapa?
+  * Bagian mana yang terasa seperti **overselling** — dan mengapa?
+  * Apa yang bisa **diperbaiki** tanpa mengurangi *confidence*?
+* Tidak ada penilaian — ini **latihan bersama** untuk belajar dari satu sama lain
+:::
+
+::: {.callout-note}
+Kemampuan ini akan terus berkembang seiring banyaknya naskah yang Anda tulis dan *feedback* yang Anda terima. Satu paragraf hari ini adalah langkah pertama.
+:::
+
+# Sumber belajar lanjutan {background-color="#14497F" .center}
+
+## Sumber belajar yang direkomendasikan
+
+::: {.incremental}
+**Gratis & *online***:
+
+* [**Editage Insights**](https://www.editage.com/insights/) — panduan praktis menulis dan mempublikasikan naskah
+* [**Elsevier Researcher Academy**](https://researcheracademy.elsevier.com/) — kursus terstruktur untuk peneliti
+* [**COPE**](https://publicationethics.org/) (*Committee on Publication Ethics*) — panduan etika publikasi
+* [**PRISMA**](https://www.prisma-statement.org/) — *checklist* untuk *systematic/scoping review*
+* [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) — registrasi protokol *systematic review*
+* [**OSF**](https://osf.io/) (*Open Science Framework*) — *pre-registration* dan *open data*
+* [**DOAJ**](https://doaj.org/) — cek legitimasi jurnal *open access*
+* [**Scimago Journal Rank**](https://www.scimagojr.com/) — cek quartile dan SJR jurnal
+:::
+
+## Tentang penggunaan AI dalam menulis
+
+::: {.incremental}
+* *Large Language Model* (LLM) seperti ChatGPT, Gemini, dan Claude kini tersedia luas — termasuk di ekosistem akademik
+* AI **dapat membantu** untuk:
+  * Memperbaiki tata bahasa dan gaya penulisan
+  * Mereformat sitasi dan daftar pustaka
+  * Menerjemahkan teks
+  * Mencari tema atau kode dalam data
+* **Namun**: artikel ilmiah **harus ditulis oleh penelitinya sendiri**
+  * Isi, argumen, dan interpretasi adalah tanggung jawab penuh penulis
+  * Banyak jurnal kini mensyaratkan *disclosure* atas penggunaan AI
+:::
+
+::: {.callout-warning}
+**Penting**: Menggunakan AI untuk *menulis* naskah Anda secara penuh — bukan hanya membantu perbaikan — dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan dengan bijaksana dan transparan.
+:::
+
+## Ada pertanyaan❓
+
+![](https://media3.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif){fig-align="center"}
+
+::: {.callout-note}
+* Paparan disusun dengan menggunakan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::

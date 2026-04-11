@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - slides/bagian-1.qmd
+    - slides/bagian-2.qmd
+  resources:
+    - _extensions/rameliaz/unair/logo.png
+    - _extensions/rameliaz/unair/logo_white.png
+
+website:
+  title: "Workshop Penerbitan Ilmiah"
+  navbar:
+    left:
+      - text: "Beranda"
+        href: index.html
+    right:
+      - text: "Materi (HTML)"
+        menu:
+          - text: "Bagian 1: Ekosistem Publikasi Ilmiah"
+            href: slides/bagian-1.html
+          - text: "Bagian 2: Strategi & Latihan Menulis"
+            href: slides/bagian-2.html
+      - text: "Survei"
+        menu:
+          - text: "Evaluasi Workshop"
+            href: https://www.soscisurvey.de/fb-workshop-amel/     
+      - icon: github
+        href: https://github.com/rameliaz/penerbitan
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-float: true
+    toc-depth: 3
+    df-print: paged
+    highlight-style: github
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">

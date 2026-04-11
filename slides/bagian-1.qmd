@@ -1,0 +1,562 @@
+---
+title: "Ekosistem Publikasi Ilmiah"
+subtitle: "_Workshop Penerbitan Ilmiah untuk Mahasiswa Doktoral_: Bagian 1️⃣"
+author: "Rizqy Amelia Zein"
+institute:
+  - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
+date: today
+format:
+  unair-revealjs:
+    slide-number: true
+    progress: true
+    transition: slide
+    center: false
+execute:
+  eval: false
+  echo: false
+---
+
+## *Outline*
+
+* Mengapa publikasi itu penting?
+* Moda komunikasi kesarjanaan & jenis artikel
+* Lanskap jurnal ilmiah — *publisher*, pangkalan data, kategorisasi
+* Waspada jurnal *predatory*
+* Bagaimana jurnal bekerja? — dari manuskrip ke publikasi
+* Struktur naskah ilmiah (IMRAD)
+* Naskah yang layak terbit — kualitas dan *mindset*
+* Menulis *Introduction*
+* Menulis *Discussion* dan *Abstract*
+
+# Mengapa publikasi itu penting? {background-color="#14497F" .center}
+
+## Lebih dari sekadar kewajiban administratif
+
+::: {.incremental}
+* Publikasi adalah cara pengetahuan **disebarluaskan, diuji, dan dikritisi** oleh komunitas ilmiah
+* **Tanggung jawab moral** peneliti — temuan yang tidak dipublikasikan adalah pengetahuan yang hilang
+* **Bukan** digunakan untuk mengukur kualitas peneliti, tetapi sebagai **kontribusi** pada perkembangan keilmuan
+* Memupuk *academic ethos* → **persistence** & **hardworking**
+* Bagian dari semangat *knowledge sharing* — ilmu yang baik harus bisa diakses dan diverifikasi
+:::
+
+## Yang terjadi kalau kita salah memilih...
+
+::: {.incremental}
+* Naskah diterbitkan di jurnal *bogus/predatory*, akibatnya:
+  * **Reputasi** tercederai — siapapun yang namanya tercantum: mahasiswa maupun promotor
+  * Merupakan indikasi bahwa peneliti memilih **jalan instan** (padahal keseluruhan prosesnya 'berliku-liku')
+  * **Mempersulit karir** dalam jangka panjang — baik akademik maupun struktural
+  * Khilaf satu-dua kali, *that's okay*. Tapi kalau berulang, terindikasi tidak jujur
+:::
+
+::: {.callout-warning}
+**Penting**: Oleh karena itu, **memilah jurnal adalah proses yang sangat penting** — dan ini yang akan kita bahas hari ini.
+:::
+
+# Moda komunikasi & jenis artikel {background-color="#14497F" .center}
+
+## Moda komunikasi kesarjanaan
+
+::: {.incremental}
+Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
+
+* **Monograf & bab buku** (*edited book*) — relevan khususnya di bidang humaniora dan ilmu sosial
+* ***Preprint*** — versi naskah *sebelum peer-review*, diunggah ke server terbuka (e.g., PsyArXiv, OSF Preprints)
+* ***Conference paper*** / *proceedings* — presentasi di konferensi; berguna untuk jaringan tetapi tidak selalu *peer-reviewed*
+* **Artikel jurnal** — melalui proses *peer-review*; bentuk yang paling diakui dalam PAK dan karir akademik
+:::
+
+::: {.callout-note}
+Workshop ini berfokus pada **artikel jurnal ilmiah** — tapi moda komunikasi lain tetap bernilai sebagai bagian portofolio akademik Anda.
+:::
+
+## Jenis artikel ilmiah
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+**Berbasis data primer**
+
+* ***Original research*** (artikel empiris)
+* ***Brief/short communication***
+* ***Case study/report***
+* ***Registered Report*** ⭐ — desain & hipotesis dinilai *reviewer* **sebelum** data dikumpulkan
+:::
+:::
+::: {.column}
+::: {.incremental}
+**Berbasis literatur (sekunder)**
+
+* ***Systematic review***
+* ***Scoping review***
+* ***Meta-analysis***
+* ***Narrative review*** / *conceptual paper*
+* ***Methodological paper***
+:::
+:::
+::::
+
+::: {.callout-note}
+Sebagian besar peserta sedang mengerjakan ***scoping*** atau ***systematic review*** — jenis artikel bernilai tinggi di komunitas ilmiah, tapi kompetisinya juga ketat.
+:::
+
+# Lanskap jurnal ilmiah {background-color="#14497F" .center}
+
+## Ekosistem pengetahuan ilmiah
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+Tiga komponen utama:
+
+* **Publisher/Penerbit** — organisasi yang menerbitkan jurnal (e.g., Elsevier, Sage, UP3 UNAIR)
+* **Jurnal** (*standalone* atau di bawah naungan publisher) — tempat artikel diterbitkan
+* **Pangkalan data** (*database*) — indeks yang memungkinkan artikel ditemukan dan diakses
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Analogi sederhana**:
+
+* Publisher = percetakan
+* Jurnal = majalah ilmiah
+* Database = perpustakaan digital
+:::
+:::
+::::
+
+## *Publisher*/penerbit besar
+
+::: {.incremental}
+*Publisher* komersil internasional yang dikenal luas:
+
+* **Elsevier**, **Wiley**, **Springer/Nature**, **Taylor & Francis**, **SAGE**, **Oxford University Press**, **Cambridge University Press**
+* Masing-masing menerbitkan ratusan hingga ribuan jurnal
+* **Tidak** semua jurnal dari *publisher* besar otomatis berkualitas tinggi
+* Ada penerbit kecil/independen yang reputasinya justru sangat kuat
+* Di Indonesia: **UP3** (Unit Publikasi Penelitian Psikologi), penerbit universitas
+:::
+
+::: {.callout-note}
+*Standalone journal* seperti **PLOS ONE** tidak dimiliki oleh *publisher* besar — tapi tetap sangat bereputasi. Ukuran bukan segalanya.
+:::
+
+## Pangkalan data (*database*)
+
+::: {.incremental}
+* **Scopus** — indeks internasional paling umum digunakan di Indonesia (Elsevier)
+* **Web of Science (WoS)** / *Web of Knowledge* — lebih selektif dari Scopus
+* **APA PsycNET** — khusus literatur psikologi
+* **EBSCO**, **JSTOR** — multi-disiplin
+* **DOAJ** (*Directory of Open Access Journals*) — khusus jurnal *open access*
+* **SINTA** — pangkalan data nasional Indonesia (Kemdikbudristek)
+* **Google Scholar** — berguna untuk *menemukan* artikel, **bukan** untuk mengklaim kualitas jurnal
+:::
+
+::: {.callout-warning}
+**Penting**: Terindeks di Scopus ≠ berkualitas tinggi. Tidak terindeks = sinyal untuk waspada.
+:::
+
+## *Open access* (OA) vs *paywalled journal*
+
+::: {.incremental}
+* ***Open access* (OA)**
+  * Artikel bisa diakses bebas tanpa biaya langganan
+  * Hak cipta (*copyrights*) **tetap** di tangan penulis
+  * Penulis biasanya membayar *Article Processing Charge* (APC) — **dibayar setelah *accepted***
+
+* ***Paywalled journal***
+  * Pembaca membutuhkan biaya langganan yang mahal
+  * Hak cipta (*copyrights*) **ditransfer** ke jurnal/penerbit
+  * Biasanya tidak ada APC untuk penulis
+:::
+
+::: {.callout-note}
+Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sangat bagus dan banyak *paywalled journal* yang kualitasnya rendah.
+:::
+
+# Waspada jurnal *predatory* {background-color="#14497F" .center}
+
+## Ciri-ciri jurnal *bogus/predatory/fake*
+
+::: {.incremental}
+* Kadang tidak terindeks di pangkalan data manapun
+  * Tapi: ada banyak jurnal palsu yang (sempat) **terindeks Scopus dan/atau WoS (ESCI)**
+* Penerbit tidak jelas dan cenderung **komersil** — tujuannya uang, bukan ilmu
+* *Impact factor* jadi-jadian (bukan JIF resmi dari Clarivate)
+* Tidak melakukan ***peer-review*** yang sesungguhnya — atau prosesnya sangat singkat dan formalitas
+* Termasuk dalam **Beall's list** — tapi Beall's list tidak bisa jadi satu-satunya patokan
+:::
+
+## Cara mengidentifikasi — cek dulu sebelum *submit*!
+
+::: {.incremental}
+* **Identitas jurnal**: apakah nama jurnal/penerbit familiar? Ada alamat pos yang valid?
+* **ISSN**: cek di portal ISSN resmi ([portal.issn.org](https://portal.issn.org))
+* **Editorial board**: apakah editor dan reviewer dikenal? Berafiliasi dengan institusi yang jelas?
+* **Biaya**: apakah ada *submission charge* sebelum review? → **RED FLAG**
+  * APC yang ditagih **setelah *accepted*** = normal di jurnal OA bereputasi
+* **Transparansi**: apakah proses *peer-review* dijelaskan dengan jelas? Berapa lama biasanya?
+* **Konten**: baca beberapa artikel — apakah kualitasnya konsisten dan memadai?
+:::
+
+## *Think. Check. Submit.*
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.incremental}
+Tiga langkah **sebelum** memutuskan jurnal:
+
+1. **Think** 🔴 — apakah jurnal ini benar-benar cocok untuk naskah dan karir saya?
+2. **Check** 🟡 — verifikasi identitas, proses editorial, dan reputasi jurnal
+3. **Submit** 🟢 — hanya setelah yakin jurnal tersebut bereputasi dan sesuai
+
+Referensi: [thinkchecksubmit.org](https://thinkchecksubmit.org)
+:::
+:::
+::: {.column width="45%"}
+::: {.callout-warning}
+*"In their eagerness to get published, young researchers often fall prey to predatory publishers."*
+
+Apabila ragu, diskusikan dengan promotor atau staf UP3.
+:::
+:::
+::::
+
+# Bagaimana jurnal bekerja? {background-color="#14497F" .center}
+
+## Dari manuskrip ke publikasi 1️⃣
+
+::: {.incremental}
+1. **Submit** — mendaftarkan naskah ke sistem jurnal (biasanya *online*)
+2. ***Initial assessment*** — editor memutuskan:
+   * Apakah naskah sesuai *scope* jurnal?
+   * Apakah kualitas awal memadai untuk dikirim ke *reviewer*?
+   * Jika tidak → ***desk reject*** (biasanya dalam 1–2 minggu)
+3. ***Peer-review*** — naskah dikirim ke 2–3 *reviewer* ahli di bidang yang relevan
+:::
+
+## Dari manuskrip ke publikasi 2️⃣
+
+::: {.incremental}
+4. **Keputusan editor** setelah *review*:
+   * ***Major revision*** — perlu revisi substansial, kemungkinan re-review
+   * ***Minor revision*** — revisi kecil, biasanya tidak perlu re-review
+   * ***Rejection*** — ditolak (tapi bukan akhir dunia!)
+   * ***Accept*** — langsung diterima tanpa revisi (sangat jarang)
+5. **Revisi** — penulis merespons masukan *reviewer* secara tertulis (*response to reviewers*)
+6. **(Re-)review** — kadang kembali ke *reviewer* untuk evaluasi revisi
+7. ***Copyediting* & *proofreading*** → **Terbit** (*published*)
+:::
+
+::: {.callout-note}
+Waktu proses: 2 minggu (*desk reject*) hingga **12 bulan+** (sejak *submit* hingga terbit). Bersabarlah — ini normal.
+:::
+
+## *Desk rejection* — angka dan fakta
+
+::: {.incremental}
+* ***Desk rejection rate*** di jurnal bereputasi bisa mencapai **60–76%** (Billsberry, 2014)
+* Artinya: mayoritas naskah tidak pernah sampai ke tangan *reviewer*
+* Penyebab utama *desk rejection*:
+  * ***Scope* tidak sesuai** — naskah tidak relevan dengan fokus jurnal
+  * **Kualitas awal tidak memadai** — tulisan tidak memenuhi standar dasar jurnal
+  * **Format/teknis** — tidak mengikuti *author guidelines*
+  * **Bahasa** — terutama hambatan bagi penulis non-penutur asli bahasa Inggris
+:::
+
+::: {.callout-warning}
+**Catatan penting** (Garand & Harman, 2021): Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih rentan terkena *desk rejection* — ini adalah *gatekeeping* struktural dalam sistem publikasi ilmiah global yang perlu disadari.
+:::
+
+## Siapa saja yang terlibat?
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+**Editor** ingin...
+
+* Naskah berkualitas yang **dibaca** banyak orang
+* Konten yang **sesuai *scope*** jurnal
+* Kontribusi yang **orisinal** dan nyata
+
+**Reviewer** ingin...
+
+* Kontribusi ilmiah yang **adekuat** dan jelas
+* Metodologi yang **kuat dan transparan**
+* Penyajian yang **jernih**, tidak bertele-tele
+:::
+:::
+::: {.column}
+::: {.incremental}
+**Pembaca** ingin...
+
+* Cepat menemukan informasi relevan → *indexing*, *keywording*
+* Temuan yang **bisa dipercaya** dan direplikasi
+* Implikasi yang **jelas dan konkret**
+
+**Penulis** ingin...
+
+* Karyanya **disitasi** orang lain
+* Kontribusi diakui komunitas ilmiah
+:::
+:::
+::::
+
+## Naskah yang baik — apa saja?
+
+::: {.incremental}
+Kompromi antara semua pihak di atas. Naskah yang baik:
+
+* Punya **ide yang sederhana** tapi dieksekusi dengan baik
+* Menyajikan **penjelasan yang jernih** — tidak membuat pembaca bingung
+* Melakukan **eksplorasi yang menyeluruh** atas literatur yang relevan
+* Menghasilkan **temuan/sintesis yang substansial** — bukan hanya deskriptif
+* ***Concise*** — to-the-point, tapi dengan **argumentasi yang kuat**
+* Memiliki **tata bahasa yang baik** (termasuk bahasa Inggris yang konsisten)
+:::
+
+## Struktur naskah ilmiah (IMRAD)
+
+::: {.incremental}
+* **I**ntroduction — *WHY?*
+  * Apa konteks? Apa yang sudah diketahui? Apa kesenjangan (*gap*)? Apa pertanyaan penelitian?
+* **M**ethods — *HOW?*
+  * Apa yang dilakukan untuk menjawab pertanyaan penelitian?
+* **R**esults — *WHAT?*
+  * Apa yang ditemukan? Disajikan dalam tabel, gambar, dan narasi
+* **A**nd **D**iscussion — *SO WHAT?*
+  * Apa artinya? Bagaimana ini masuk dalam literatur yang lebih luas? Apa implikasinya?
+:::
+
+::: {.callout-note}
+Untuk ***scoping/systematic review***: ikuti panduan **PRISMA** (*Preferred Reporting Items for Systematic reviews and Meta-Analyses*). Logika IMRAD tetap berlaku, terutama untuk Introduction dan Discussion.
+:::
+
+# Menulis *Introduction* {background-color="#14497F" .center}
+
+## *Introduction* bukan latar belakang — ini argumen
+
+::: {.incremental}
+* Banyak penulis memperlakukan *Introduction* sebagai "ringkasan literatur" — padahal fungsinya berbeda
+* *Introduction* harus menjawab **empat pertanyaan** secara berurutan:
+  1. **Apa yang sudah diketahui?** — konteks dan *state of the art*
+  2. **Apa yang belum diketahui / masih bermasalah?** — *research gap*
+  3. **Mengapa gap ini penting untuk diisi?** — justifikasi penelitian
+  4. **Apa yang akan dilakukan dalam studi ini?** — tujuan dan pertanyaan penelitian
+* Strukturnya seperti **corong** (*funnel*): dari luas ke spesifik
+:::
+
+::: {.callout-note}
+Model klasik yang berguna: **CARS** (*Create A Research Space*, Swales, 1990) — *establish a territory → establish a niche → occupy the niche*. Berlaku untuk semua jenis artikel ilmiah.
+:::
+
+## Menulis *Introduction* untuk *review articles*
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+**Yang harus ada** ✅
+
+* Konteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?
+* Bukti bahwa *gap* memang ada — **bukan hanya klaim**, tapi didukung sitasi
+* Justifikasi *review*: mengapa review ini diperlukan sekarang?
+* Diferensiasi dari review yang sudah ada — apa nilai tambahnya?
+* Tujuan *review* yang spesifik dan terukur
+:::
+:::
+::: {.column}
+::: {.incremental}
+**Yang perlu dihindari** ❌
+
+* Membuka dengan kalimat terlalu umum (*"Kesehatan mental adalah isu penting..."*)
+* *Gap* yang diklaim tanpa dukungan bukti
+* *"Belum ada penelitian yang..."* — hampir selalu tidak akurat
+* Tujuan yang terlalu luas atau ambigu
+:::
+
+::: {.callout-warning}
+*Introduction* yang lemah adalah alasan *desk rejection* terbanyak kedua setelah ketidakcocokan *scope*.
+:::
+:::
+::::
+
+# Naskah yang layak terbit {background-color="#14497F" .center}
+
+## Dua dimensi kualitas naskah
+
+::: {.incremental}
+Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
+
+* **Konten** → terkait dengan:
+  * Pertanyaan penelitian yang **jelas dan relevan**
+  * Metode yang **sesuai dan dijelaskan dengan cukup detail** (sehingga bisa direplikasi)
+  * Sintesis/temuan yang **menjawab pertanyaan penelitian**
+
+* **Presentasi** → aspek teknis:
+  * Tata bahasa yang baik dan konsisten
+  * Sistematika yang logis dan mengalir
+  * Format sesuai *author guidelines* jurnal yang dituju
+:::
+
+## Menulis adalah *skill*, bukan bakat
+
+::: {.incremental}
+* Banyak naskah yang tak layak muat bukan karena penelitiannya buruk — tapi *simply* **tidak ditulis dengan baik**
+* Menulis naskah yang baik **dapat dilatih** — *continuous improvement* adalah kuncinya
+* Dengan terus menulis dan mendapatkan *feedback*, kemampuan kita terus berkembang
+* *Feedback* dari *reviewer* kadang terasa sangat menyakitkan — tapi **jangan sampai membuat kita demotivasi**
+* Hampir **semua** peneliti senior pernah mengalami penolakan berulang sebelum berhasil terbit
+:::
+
+::: {.callout-warning}
+**Penting**: Penolakan (*rejection*) bukan akhir dunia. Banyak paper terkenal pernah ditolak berkali-kali sebelum akhirnya terbit.
+:::
+
+## Saat menerima *review*: jangan langsung dibalas
+
+::: {.incremental}
+* Menerima *review* — apalagi yang keras — bisa memicu reaksi emosional yang wajar
+* **Tunggu 1–2 hari** sebelum mulai merespons
+* Baca **semua** komentar *reviewer* terlebih dahulu, baru mulai menyusun respons
+* Identifikasi: mana yang valid, mana yang perlu klarifikasi, mana yang tidak Anda setujui
+* **Jangan pernah membalas dengan nada defensif atau emosional** — bahkan jika *reviewer* keliru
+* Ingat: *reviewer* menyumbangkan waktunya **secara sukarela** tanpa imbalan
+:::
+
+## Merespons *reviewer* dengan baik
+
+::: {.incremental}
+* *Response to reviewers* adalah **keterampilan tersendiri** yang harus dipelajari
+* Prinsip dasar: **terima kasih dulu, argumen kemudian**
+* Setiap komentar *reviewer* harus direspons — tidak ada yang boleh diabaikan
+* Jika tidak setuju dengan *reviewer*: boleh, tapi **wajib** berikan argumen yang kuat dan berdasar
+* Revisi naskah sesuai masukan yang valid; **tunjukkan dengan jelas** di mana dan bagaimana Anda merespons
+* *Major revision* bukan penolakan — ini kesempatan untuk memperbaiki naskah
+:::
+
+# Menulis *Discussion* dan *Abstract* {background-color="#14497F" .center}
+
+## Mengapa *Discussion* itu paling sulit?
+
+::: {.incremental}
+* *Discussion* dan *Abstract* adalah **bagian yang paling sering dibaca** dalam sebuah artikel ilmiah
+* *Discussion* bukan ringkasan *Results* — ini adalah **interpretasi dan sintesis**
+* Tantangannya: harus **jujur** tentang keterbatasan, sekaligus tetap **meyakinkan** tentang kontribusi
+* Banyak naskah yang datanya bagus tapi *Discussion*-nya lemah → ditolak atau diminta revisi besar
+:::
+
+::: {.callout-note}
+Prinsip utama: *Discussion* yang baik menjawab pertanyaan ***"So what?"*** — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?
+:::
+
+## Alur *Discussion* yang efektif
+
+::: {.incremental}
+Struktur *Discussion* yang baik mengalir dalam tiga bagian:
+
+1. **Pembukaan** — *re-state* pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama
+   * Bukan mengulang angka dari *Results* — ini **interpretasi** atas temuan
+
+2. **Badan** — elaborasi dan perbandingan:
+   * Interpretasi mendalam atas temuan
+   * Perbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?
+   * Implikasi teoritis dan/atau praktis
+
+3. **Penutup** — keterbatasan dan arah ke depan:
+   * Keterbatasan penelitian secara jujur
+   * Rekomendasi untuk penelitian selanjutnya
+:::
+
+## Yang perlu ada — dan yang perlu dihindari
+
+:::: {.columns}
+::: {.column}
+**Perlu ada** ✅
+
+::: {.incremental}
+* Interpretasi temuan utama
+* Perbandingan dengan literatur yang relevan
+* Implikasi teoritis dan/atau praktis
+* Keterbatasan yang *honest*
+* Arah riset ke depan
+:::
+:::
+::: {.column}
+**Perlu dihindari** ❌
+
+::: {.incremental}
+* Mengulang angka dari *Results*
+* Spekulasi berlebihan di luar data
+* Mengabaikan atau meremehkan keterbatasan
+* Klaim kausalitas dari desain non-eksperimental
+* *Discussion* yang terlalu panjang dan repetitif
+:::
+:::
+::::
+
+## "Ngeles dengan elegan" — membahas keterbatasan
+
+::: {.incremental}
+* Semua penelitian punya keterbatasan — **jangan disembunyikan**
+* Tapi: membahas keterbatasan **bukan berarti minta maaf** atas penelitian Anda
+* "Ngeles dengan elegan" = mengakui keterbatasan **sambil menunjukkan mengapa penelitian ini tetap valid dan berkontribusi**
+:::
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+**Terlalu apologetis** ❌
+
+*"Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati."*
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Elegan** ✅
+
+*"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya — pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
+:::
+:::
+::::
+
+## Menulis *Abstract* — tulis paling terakhir
+
+::: {.incremental}
+* *Abstract* adalah bagian yang **paling sering dibaca** — tapi sebaiknya **ditulis paling terakhir**
+* Mengapa terakhir? Karena Anda baru bisa merangkum sesuatu yang sudah selesai ditulis
+* Prinsip: **satu kalimat per bagian** IMRAD
+  * 1 kalimat → latar belakang/konteks dan *research gap*
+  * 1 kalimat → pertanyaan penelitian / tujuan
+  * 1–2 kalimat → metode
+  * 1–2 kalimat → temuan utama
+  * 1 kalimat → implikasi/kesimpulan
+* *Abstract* harus bisa **berdiri sendiri** — pembaca yang tidak membaca naskah utuh tetap memahami isinya
+:::
+
+::: {.callout-warning}
+**Hindari**: menyalin kalimat langsung dari badan naskah. *Abstract* adalah **ringkasan orisinal**, bukan *copy-paste*.
+:::
+
+## Bagaimana membahas *null results*?
+
+::: {.incremental}
+* Hasil "negatif" (*null*) dibahas **persis seperti hasil "positif"** — dengan struktur dan *flow* yang sama
+* Tidak ada perbedaan **cara** membahasnya — yang ada adalah **bias editorial**
+* Editor jurnal masih cenderung lebih menerima hasil "positif" → naskah *null results* lebih susah lolos
+* **TETAPI**: jika protokol studi sudah didaftarkan (*preregistration*) atau sudah melalui *Registered Report* sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi *as it is*
+:::
+
+::: {.callout-note}
+**Fakta mengejutkan**: 61% studi dengan *preregistration* menghasilkan *null results* — sementara hanya ~20% artikel tanpa *preregistration* yang dipublikasi melaporkan hasil "negatif." Ini adalah *publication bias* yang sistemik.
+:::
+
+## Ada pertanyaan❓
+
+![](https://media3.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif){fig-align="center"}
+
+::: {.callout-note}
+* Paparan disusun dengan menggunakan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
+* Kontak saya via <i class="fas fa-paper-plane"></i> <a href="mailto:amelia.zein@psikologi.unair.ac.id">amelia.zein@psikologi.unair.ac.id</a>
+:::

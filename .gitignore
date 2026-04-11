@@ -1,0 +1,16 @@
+/.claude/
+CLAUDE.md
+/examples/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+.Rproj.user
+.httr-oauth
+.quarto
