@@ -35,7 +35,7 @@ Materi berlisensi [<i class="fab fa-creative-commons"><i class="fa fa-universal-
 Klik _navigation bar_ yang mengarah pada PDF materi, kemudian tekan `ctrl` dan `p` bersamaan. Setelah _window_ untuk _print_ muncul, pilih `Save to PDF` dan klik `Save`.
 :::
 
-### Blok 1: Ekosistem Publikasi Ilmiah
+### Blok 1️⃣: Ekosistem Publikasi Ilmiah
 
 Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan proses editorial, hingga menulis naskah yang layak terbit.
 
@@ -53,7 +53,7 @@ Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan p
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 1](slides/bagian-1.html){.btn .btn-primary}
 
-### Blok 2: Strategi Publikasi & Latihan Menulis
+### Blok 2️⃣: Strategi Publikasi & Latihan Menulis
 
 Berfokus pada **strategi memilih jurnal** dan **integritas riset**, sekaligus **latihan menulis** untuk mengartikulasikan ide penelitian secara meyakinkan.
 
@@ -63,7 +63,7 @@ Berfokus pada **strategi memilih jurnal** dan **integritas riset**, sekaligus **
 - Menjawab komentar _reviewer_
 - Etika publikasi: kepengarangan, plagiarisme, dan peran promotor
 - Krisis replikasi dan mengapa prinsip *open science* penting
-- Manajemen data penelitian (RDM): prinsip FAIR, *open data policy* jurnal, dan tempat deposit (OSF, Zenodo)
+- Manajemen data penelitian (RDM): prinsip FAIR, *open data policy* jurnal, dan _platform_ untuk deposit data (OSF, Zenodo)
 - Sumber belajar lanjutan yang direkomendasikan
 - **Latihan menulis**: *scientific sell* (1 paragraf)
 
