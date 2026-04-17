@@ -374,7 +374,7 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 Keempat peneliti di atas memenangkan Nobel **setelah** naskah mereka ditolak. *Rejection* bukan penilaian akhir atas kualitas riset Anda. _Rejection_ seringkali hanya soal *timing*, jurnal yang tepat, atau *reviewer* yang *irrationally* skeptis.
 :::
 
-# Menulis *Introduction* {background-color="#14497F" .center}
+# Menulis Introduction {background-color="#14497F" .center}
 
 ## *Introduction*
 
@@ -382,8 +382,8 @@ Keempat peneliti di atas memenangkan Nobel **setelah** naskah mereka ditolak. *R
 * Banyak penulis memperlakukan *Introduction* sebagai "ringkasan literatur" — padahal fungsinya berbeda
 * *Introduction* harus menjawab **empat pertanyaan** secara berurutan:
   1. **Apa yang sudah diketahui?** — konteks dan *state of the art*
-  2. **Apa yang belum diketahui / masih bermasalah?** — *research gap*
-  3. **Mengapa gap ini penting untuk diisi?** — justifikasi penelitian
+  2. **Apa yang belum diketahui/buktinya _mixed_?** — *research gap*
+  3. **Mengapa _gap_ ini penting untuk diisi?** — justifikasi penelitian
   4. **Apa yang akan dilakukan dalam studi ini?** — tujuan dan pertanyaan penelitian
 * Strukturnya seperti **corong** (*funnel*): dari luas ke spesifik
 :::
@@ -418,20 +418,23 @@ Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](h
 :::
 
 ::: {.callout-warning}
+#### *Introduction* membentuk impresi editor
 *Introduction* yang lemah adalah alasan *desk rejection* terbanyak kedua setelah ketidakcocokan *scope*.
 :::
 :::
 ::::
 
-# Menulis *Discussion* dan *Abstract* {background-color="#14497F" .center}
+# Menulis Discussion dan Abstract {background-color="#14497F" .center}
 
 ## Mengapa *Discussion* itu paling sulit?
 
 ::: {.incremental}
 * *Discussion* dan *Abstract* adalah **bagian yang paling sering dibaca** dalam sebuah artikel ilmiah
-* *Discussion* bukan ringkasan *Results* — ini adalah **interpretasi dan sintesis**
+* *Discussion* bukan ringkasan *Results*, tetapi **interpretasi dan sintesis** atas hasil penelitiat
 * Tantangannya: harus **jujur** tentang keterbatasan, sekaligus tetap **meyakinkan** tentang kontribusi
-* Banyak naskah yang datanya bagus tapi *Discussion*-nya lemah → ditolak atau diminta revisi besar
+* Banyak naskah yang datanya bagus tapi *Discussion*-nya lemah → ditolak atau diminta revisi mayor
+* Gunakan _hedging_ yang tepat ketika menulis _Discussion_, jangan _oversell_!
+  - Akan dibahas lebih detail di blok selanjutnya
 :::
 
 ::: {.callout-note}
@@ -444,15 +447,15 @@ Prinsip utama: *Discussion* yang baik menjawab pertanyaan ***"So what?"*** — a
 Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 
 1. **Pembukaan** — *re-state* pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama
-   * Bukan mengulang angka dari *Results* — ini **interpretasi** atas temuan
+   * Bukan mengulang angka dari *Results*, tetapi sajikan **interpretasi** atas temuan
 
 2. **Badan** — elaborasi dan perbandingan:
    * Interpretasi mendalam atas temuan
    * Perbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?
    * Implikasi teoritis dan/atau praktis
 
-3. **Penutup** — keterbatasan dan arah ke depan:
-   * Keterbatasan penelitian secara jujur
+3. **Penutup** — keterbatasan dan _future directions_:
+   * Ungkapkan keterbatasan penelitian secara jujur
    * Rekomendasi untuk penelitian selanjutnya
 :::
 
@@ -466,7 +469,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 * Interpretasi temuan utama
 * Perbandingan dengan literatur yang relevan
 * Implikasi teoritis dan/atau praktis
-* Keterbatasan yang *honest*
+* Keterbatasan yang dideskripsikan secara jujur
 * Arah riset ke depan
 :::
 :::
@@ -483,7 +486,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 :::
 ::::
 
-## Menulis *Abstract* — lakukan paling terakhir
+## Menulis *Abstract* — tulis paling terakhir
 
 ::: {.incremental}
 * *Abstract* adalah bagian yang **paling sering dibaca** — tapi sebaiknya **ditulis paling terakhir**
@@ -538,7 +541,9 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 
 ::: {.callout-note}
 #### Faktanya  
-[61% studi dengan format _registered report_](https://www.nature.com/nature-index/news/first-analysis-of-pre-registered-studies-shows-sharp-rise-in-null-findings) menghasilkan *null results*, sementara hanya ~20% artikel tanpa *preregistration* yang dipublikasi melaporkan hasil negatif (_null results_, cf. [van den Akker, et al., 2024](https://link.springer.com/article/10.3758/s13428-023-02277-0)). Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
+[61% studi dengan format _registered report_](https://www.nature.com/nature-index/news/first-analysis-of-pre-registered-studies-shows-sharp-rise-in-null-findings) menghasilkan *null results*, sementara hanya ~20% artikel tanpa *preregistration* yang dipublikasi melaporkan hasil negatif (_null results_, cf. [van den Akker, et al., 2024](https://link.springer.com/article/10.3758/s13428-023-02277-0)). 
+
+Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
 :::
 
 # Latihan menulis ✍️ {background-color="#14497F" .center}
@@ -585,7 +590,7 @@ Masalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian t
 
 ## Ada pertanyaan❓
 
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJoaHR1YjYxMm5pdHBkMjBoaTY5ZTQ1dmV6MWdjM2NxeGEwb3ZtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rwS6e59S26Ozzud2o/giphy.gif){fig-align="center"}
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV6ajJ5d3F3bzhrOXVoMzlsOXc1MzB4MWExdW1pZTQ2emptNWFnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7NuHL3gjbe2uGI/giphy.gif){fig-align="center"}
 
 ::: {.callout-note}
 * Paparan disusun dengan menggunakan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).

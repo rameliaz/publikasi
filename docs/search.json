@@ -361,42 +361,42 @@
     "href": "slides/bagian-1.html#introduction",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Introduction",
-    "text": "Introduction\n\nBanyak penulis memperlakukan Introduction sebagai “ringkasan literatur” — padahal fungsinya berbeda\nIntroduction harus menjawab empat pertanyaan secara berurutan:\n\nApa yang sudah diketahui? — konteks dan state of the art\nApa yang belum diketahui / masih bermasalah? — research gap\nMengapa gap ini penting untuk diisi? — justifikasi penelitian\nApa yang akan dilakukan dalam studi ini? — tujuan dan pertanyaan penelitian\n\nStrukturnya seperti corong (funnel): dari luas ke spesifik\n\n\n\n\n\n\n\nCreate a research space (CARS)\n\n\nModel klasik yang berguna: CARS (Create A Research Space, Swales, 1990) — establish a territory → establish a niche → occupy the niche."
+    "text": "Introduction\n\nBanyak penulis memperlakukan Introduction sebagai “ringkasan literatur” — padahal fungsinya berbeda\nIntroduction harus menjawab empat pertanyaan secara berurutan:\n\nApa yang sudah diketahui? — konteks dan state of the art\nApa yang belum diketahui/buktinya mixed? — research gap\nMengapa gap ini penting untuk diisi? — justifikasi penelitian\nApa yang akan dilakukan dalam studi ini? — tujuan dan pertanyaan penelitian\n\nStrukturnya seperti corong (funnel): dari luas ke spesifik\n\n\n\n\n\n\n\nCreate a research space (CARS)\n\n\nModel klasik yang berguna: CARS (Create A Research Space, Swales, 1990) — establish a territory → establish a niche → occupy the niche."
   },
   {
     "objectID": "slides/bagian-1.html#menulis-introduction-untuk-review-articles",
     "href": "slides/bagian-1.html#menulis-introduction-untuk-review-articles",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Menulis Introduction untuk review articles",
-    "text": "Menulis Introduction untuk review articles\n\n\nYang harus ada ✅\n\nKonteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?\nBukti bahwa gap memang ada — bukan hanya klaim, tapi didukung sitasi\nJustifikasi review: mengapa review ini diperlukan sekarang?\nDiferensiasi dari review yang sudah ada — apa nilai tambahnya?\nTujuan review yang spesifik dan terukur\n\n\nYang perlu dihindari ❌\n\nMembuka dengan kalimat terlalu umum (“Kesehatan mental adalah isu penting…”)\nGap yang diklaim tanpa dukungan bukti\n“Belum ada penelitian yang…” — hampir selalu tidak akurat\nTujuan yang terlalu luas atau ambigu\n\n\n\n\n\n\n\nWarning\n\n\nIntroduction yang lemah adalah alasan desk rejection terbanyak kedua setelah ketidakcocokan scope."
+    "text": "Menulis Introduction untuk review articles\n\n\nYang harus ada ✅\n\nKonteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?\nBukti bahwa gap memang ada — bukan hanya klaim, tapi didukung sitasi\nJustifikasi review: mengapa review ini diperlukan sekarang?\nDiferensiasi dari review yang sudah ada — apa nilai tambahnya?\nTujuan review yang spesifik dan terukur\n\n\nYang perlu dihindari ❌\n\nMembuka dengan kalimat terlalu umum (“Kesehatan mental adalah isu penting…”)\nGap yang diklaim tanpa dukungan bukti\n“Belum ada penelitian yang…” — hampir selalu tidak akurat\nTujuan yang terlalu luas atau ambigu\n\n\n\n\n\n\n\nIntroduction membentuk impresi editor\n\n\nIntroduction yang lemah adalah alasan desk rejection terbanyak kedua setelah ketidakcocokan scope."
   },
   {
     "objectID": "slides/bagian-1.html#mengapa-discussion-itu-paling-sulit",
     "href": "slides/bagian-1.html#mengapa-discussion-itu-paling-sulit",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Mengapa Discussion itu paling sulit?",
-    "text": "Mengapa Discussion itu paling sulit?\n\nDiscussion dan Abstract adalah bagian yang paling sering dibaca dalam sebuah artikel ilmiah\nDiscussion bukan ringkasan Results — ini adalah interpretasi dan sintesis\nTantangannya: harus jujur tentang keterbatasan, sekaligus tetap meyakinkan tentang kontribusi\nBanyak naskah yang datanya bagus tapi Discussion-nya lemah → ditolak atau diminta revisi besar\n\n\n\n\n\n\n\nNote\n\n\nPrinsip utama: Discussion yang baik menjawab pertanyaan “So what?” — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?"
+    "text": "Mengapa Discussion itu paling sulit?\n\nDiscussion dan Abstract adalah bagian yang paling sering dibaca dalam sebuah artikel ilmiah\nDiscussion bukan ringkasan Results, tetapi interpretasi dan sintesis atas hasil penelitiat\nTantangannya: harus jujur tentang keterbatasan, sekaligus tetap meyakinkan tentang kontribusi\nBanyak naskah yang datanya bagus tapi Discussion-nya lemah → ditolak atau diminta revisi mayor\nGunakan hedging yang tepat ketika menulis Discussion, jangan oversell!\n\nAkan dibahas lebih detail di blok selanjutnya\n\n\n\n\n\n\n\n\nNote\n\n\nPrinsip utama: Discussion yang baik menjawab pertanyaan “So what?” — apa artinya temuan ini bagi literatur yang sudah ada dan bagi praktik?"
   },
   {
     "objectID": "slides/bagian-1.html#alur-discussion-yang-efektif",
     "href": "slides/bagian-1.html#alur-discussion-yang-efektif",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Alur Discussion yang efektif",
-    "text": "Alur Discussion yang efektif\nStruktur Discussion yang baik mengalir dalam tiga bagian:\n\nPembukaan — re-state pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama\n\nBukan mengulang angka dari Results — ini interpretasi atas temuan\n\nBadan — elaborasi dan perbandingan:\n\nInterpretasi mendalam atas temuan\nPerbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?\nImplikasi teoritis dan/atau praktis\n\nPenutup — keterbatasan dan arah ke depan:\n\nKeterbatasan penelitian secara jujur\nRekomendasi untuk penelitian selanjutnya"
+    "text": "Alur Discussion yang efektif\nStruktur Discussion yang baik mengalir dalam tiga bagian:\n\nPembukaan — re-state pertanyaan penelitian dan jawaban singkat berdasarkan temuan utama\n\nBukan mengulang angka dari Results, tetapi sajikan interpretasi atas temuan\n\nBadan — elaborasi dan perbandingan:\n\nInterpretasi mendalam atas temuan\nPerbandingan dengan studi yang sudah ada — konsisten? Berbeda? Mengapa?\nImplikasi teoritis dan/atau praktis\n\nPenutup — keterbatasan dan future directions:\n\nUngkapkan keterbatasan penelitian secara jujur\nRekomendasi untuk penelitian selanjutnya"
   },
   {
     "objectID": "slides/bagian-1.html#yang-perlu-ada-dan-yang-perlu-dihindari",
     "href": "slides/bagian-1.html#yang-perlu-ada-dan-yang-perlu-dihindari",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Yang perlu ada — dan yang perlu dihindari",
-    "text": "Yang perlu ada — dan yang perlu dihindari\n\n\nPerlu ada ✅\n\nInterpretasi temuan utama\nPerbandingan dengan literatur yang relevan\nImplikasi teoritis dan/atau praktis\nKeterbatasan yang honest\nArah riset ke depan\n\n\nPerlu dihindari ❌\n\nMengulang angka dari Results\nSpekulasi berlebihan di luar data\nMengabaikan atau meremehkan keterbatasan\nKlaim kausalitas dari desain non-eksperimental\nDiscussion yang terlalu panjang dan repetitif"
+    "text": "Yang perlu ada — dan yang perlu dihindari\n\n\nPerlu ada ✅\n\nInterpretasi temuan utama\nPerbandingan dengan literatur yang relevan\nImplikasi teoritis dan/atau praktis\nKeterbatasan yang dideskripsikan secara jujur\nArah riset ke depan\n\n\nPerlu dihindari ❌\n\nMengulang angka dari Results\nSpekulasi berlebihan di luar data\nMengabaikan atau meremehkan keterbatasan\nKlaim kausalitas dari desain non-eksperimental\nDiscussion yang terlalu panjang dan repetitif"
   },
   {
-    "objectID": "slides/bagian-1.html#menulis-abstract-lakukan-paling-terakhir",
-    "href": "slides/bagian-1.html#menulis-abstract-lakukan-paling-terakhir",
+    "objectID": "slides/bagian-1.html#menulis-abstract-tulis-paling-terakhir",
+    "href": "slides/bagian-1.html#menulis-abstract-tulis-paling-terakhir",
     "title": "Ekosistem Publikasi Ilmiah",
-    "section": "Menulis Abstract — lakukan paling terakhir",
-    "text": "Menulis Abstract — lakukan paling terakhir\n\nAbstract adalah bagian yang paling sering dibaca — tapi sebaiknya ditulis paling terakhir\nMengapa terakhir? Karena Anda baru bisa merangkum sesuatu yang sudah selesai ditulis\nPrinsip: satu kalimat per bagian IMRAD\n\n1 kalimat → latar belakang/konteks dan research gap\n1 kalimat → pertanyaan penelitian / tujuan\n1–2 kalimat → metode\n1–2 kalimat → temuan utama\n1 kalimat → implikasi/kesimpulan\n\nAbstract harus bisa berdiri sendiri, pembaca yang tidak membaca naskah utuh tetap memahami isinya\n\n\n\n\n\n\n\nWarning\n\n\nHindari: menyalin kalimat langsung dari badan naskah. Abstract adalah ringkasan yang berdiri sendiri."
+    "section": "Menulis Abstract — tulis paling terakhir",
+    "text": "Menulis Abstract — tulis paling terakhir\n\nAbstract adalah bagian yang paling sering dibaca — tapi sebaiknya ditulis paling terakhir\nMengapa terakhir? Karena Anda baru bisa merangkum sesuatu yang sudah selesai ditulis\nPrinsip: satu kalimat per bagian IMRAD\n\n1 kalimat → latar belakang/konteks dan research gap\n1 kalimat → pertanyaan penelitian / tujuan\n1–2 kalimat → metode\n1–2 kalimat → temuan utama\n1 kalimat → implikasi/kesimpulan\n\nAbstract harus bisa berdiri sendiri, pembaca yang tidak membaca naskah utuh tetap memahami isinya\n\n\n\n\n\n\n\nWarning\n\n\nHindari: menyalin kalimat langsung dari badan naskah. Abstract adalah ringkasan yang berdiri sendiri."
   },
   {
     "objectID": "slides/bagian-1.html#ngeles-dengan-elegan",
@@ -410,7 +410,7 @@
     "href": "slides/bagian-1.html#bagaimana-membahas-null-results",
     "title": "Ekosistem Publikasi Ilmiah",
     "section": "Bagaimana membahas null results?",
-    "text": "Bagaimana membahas null results?\n\nHasil “negatif” (null) dibahas persis seperti hasil “positif” — dengan struktur dan flow yang sama\nTidak ada perbedaan cara membahasnya, yang perlu diwaspadai adalah bias editor\nEditor jurnal masih cenderung lebih menerima hasil “positif” → naskah null results lebih susah lolos\nTETAPI: jika protokol studi sudah didaftarkan (preregistration) atau sudah melalui Registered Report sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi as it is\nLebih detailnya, saya membahas bagaimana cara melaporkan null results disini\n\n\n\n\n\n\n\nFaktanya\n\n\n61% studi dengan format registered report menghasilkan null results, sementara hanya ~20% artikel tanpa preregistration yang dipublikasi melaporkan hasil negatif (null results, cf. van den Akker, et al., 2024). Temuan ini menguatkan dugaan bahwa ada publication bias yang sistemik."
+    "text": "Bagaimana membahas null results?\n\nHasil “negatif” (null) dibahas persis seperti hasil “positif” — dengan struktur dan flow yang sama\nTidak ada perbedaan cara membahasnya, yang perlu diwaspadai adalah bias editor\nEditor jurnal masih cenderung lebih menerima hasil “positif” → naskah null results lebih susah lolos\nTETAPI: jika protokol studi sudah didaftarkan (preregistration) atau sudah melalui Registered Report sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi as it is\nLebih detailnya, saya membahas bagaimana cara melaporkan null results disini\n\n\n\n\n\n\n\nFaktanya\n\n\n61% studi dengan format registered report menghasilkan null results, sementara hanya ~20% artikel tanpa preregistration yang dipublikasi melaporkan hasil negatif (null results, cf. van den Akker, et al., 2024).\nTemuan ini menguatkan dugaan bahwa ada publication bias yang sistemik."
   },
   {
     "objectID": "slides/bagian-1.html#tugas-1-elevator-pitch-15-menit",
