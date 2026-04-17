@@ -1,16 +1,16 @@
 ---
-title: "_Workshop_ Penerbitan Ilmiah untuk Mahasiswa Doktoral"
+title: "_Workshop_ Penerbitan Ilmiah"
 ---
 
 Selamat datang di halaman _workshop_ **Penerbitan Ilmiah** yang diselenggarakan untuk mahasiswa doktoral Program Studi S3 Psikologi, Universitas Airlangga.
 
-## Tentang Workshop
+## Tentang _workshop_
 
 _Workshop_ ini dirancang untuk membekali mahasiswa doktoral dengan pemahaman tentang ekosistem publikasi ilmiah dan strategi untuk mempublikasikan manuskrip, khususnya bagi yang sedang mengerjakan *scoping review* atau *systematic review*.
 
 _Workshop_ ini diselenggarakan atas inisiatif komunitas Airlangga _Doctoral Enrichment Community_ (Psy-ADEC) yang didukung oleh program studi S3 Psikologi. Terima kasih kepada komunitas Psy-ADEC atas inisiatif dan semangatnya untuk terus belajar dan mengembangkan diri!☺️
 
-![](slides/libs/poster.jpeg){fig-align="center"}
+![](slides/libs/poster.jpeg){fig-align="center" width="70%"}
 
 ---
 
@@ -30,7 +30,7 @@ Namun, apabila peserta ingin menyimpan atau mengakses _history chat_ setelah _wo
 
 ---
 
-## Materi Workshop
+## Materi _workshop_
 
 Materi berlisensi [<i class="fab fa-creative-commons"><i class="fa fa-universal-access"></i></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/). **Materi bebas digunakan kembali namun wajib mengatribusi sumber aslinya**.
 
