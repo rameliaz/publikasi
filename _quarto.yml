@@ -10,7 +10,7 @@ project:
     - _extensions/rameliaz/unair/logo_white.png
 
 website:
-  title: "Workshop Penerbitan Ilmiah"
+  title: "Workshop Publikasi Ilmiah"
   navbar:
     left:
       - href: https://rameliaz.github.io/
@@ -29,6 +29,10 @@ website:
             href: slides/bagian-2.html
           - text: "Bagian 2 (pdf)"
             href: slides/bagian-2.html?print-pdf  
+      - text: "Tugas Menulis"
+        menu:
+          - text: "Padlet"
+            href: https://padlet.com/ameliazein/berlatih-menulis-xcpa9ybswkvfuvlt
       - text: "Survei"
         menu:
           - text: "Evaluasi Workshop"

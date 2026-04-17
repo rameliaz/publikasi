@@ -1,8 +1,8 @@
 ---
-title: "_Workshop_ Penerbitan Ilmiah"
+title: "_Workshop_ Publikasi Ilmiah"
 ---
 
-Selamat datang di halaman _workshop_ **Penerbitan Ilmiah** yang diselenggarakan untuk mahasiswa doktoral Program Studi S3 Psikologi, Universitas Airlangga.
+Selamat datang di halaman _workshop_ **Publikasi Ilmiah** yang diselenggarakan untuk mahasiswa doktoral Program Studi S3 Psikologi, Universitas Airlangga.
 
 ## Tentang _workshop_
 
@@ -11,8 +11,6 @@ _Workshop_ ini dirancang untuk membekali mahasiswa doktoral dengan pemahaman ten
 _Workshop_ ini diselenggarakan atas inisiatif komunitas Airlangga _Doctoral Enrichment Community_ (Psy-ADEC) yang didukung oleh program studi S3 Psikologi. Terima kasih kepada komunitas Psy-ADEC atas inisiatif dan semangatnya untuk terus belajar dan mengembangkan diri!☺️
 
 ![](slides/libs/poster.jpeg){fig-align="center" width="70%"}
-
----
 
 ## Waktu dan tempat 
 
@@ -27,8 +25,6 @@ Namun, apabila peserta ingin menyimpan atau mengakses _history chat_ setelah _wo
 :::{style="text-align: center;"}
 [**Klik disini untuk _join meeting_**](https://teams.microsoft.com/meet/48621148240860?p=tnmFEem9q42zVoQqVO)
 :::
-
----
 
 ## Materi _workshop_
 
@@ -57,13 +53,11 @@ Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan p
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 1](slides/bagian-1.html){.btn .btn-primary}
 
----
-
 ### Blok 2: Strategi Publikasi & Latihan Menulis
 
 Berfokus pada **strategi memilih jurnal** dan **integritas riset**, sekaligus **latihan menulis** untuk mengartikulasikan ide penelitian secara meyakinkan.
 
-- Strategi memilih jurnal: empat "R" (*relevance, reach, reputation, realism*) dan pertimbangan proses editorial
+- Strategi memilih jurnal: 4️⃣ "R" (*relevance, reach, reputation, realism*) dan pertimbangan proses editorial
 - Strategi khusus untuk *review articles*: cek duplikasi, *novelty*, dan registrasi protokol di PROSPERO
 - Menulis *cover letter* yang efektif dan spesifik
 - Menjawab komentar _reviewer_
