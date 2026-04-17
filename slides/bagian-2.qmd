@@ -1,10 +1,10 @@
 ---
 title: "Strategi Publikasi & Latihan Menulis"
-subtitle: "_Workshop Penerbitan Ilmiah untuk Mahasiswa Doktoral_: Bagian 2️⃣"
+subtitle: "_Workshop Publikasi Ilmiah untuk Mahasiswa Doktoral_: Bagian 2️⃣"
 author: "Rizqy Amelia Zein"
 institute:
   - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
-  - "[Research Data & Methods Team, Center for Advanced Internet Studies](https://www.cais-research.de/team/rizqy-amelia-zein/)"
+  - "[_Research Data & Methods Team, Center for Advanced Internet Studies_](https://www.cais-research.de/team/rizqy-amelia-zein/)"
 date: today
 format:
   unair-revealjs:
@@ -41,7 +41,7 @@ execute:
 **Penting**: *Submit* ke jurnal yang *scope*-nya tidak cocok = hampir pasti *desk reject*. Editor bisa langsung melihat ini.
 :::
 
-## Empat "R" dalam memilih jurnal
+## 4️⃣®️ dalam memilih jurnal
 
 :::: {.columns}
 ::: {.column}
@@ -73,7 +73,8 @@ Berapa APC? Apakah ada *fee waiver* untuk peneliti dari negara berkembang? Cek d
 :::
 
 ::: {.callout-note}
-Rekomendasi yang sering diberikan peneliti senior: ***"Submit* di jurnal yang Anda sitir."** Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda.
+#### Rekomendasi yang sering diberikan peneliti senior 
+***"Submit* di jurnal yang Anda sitir."** Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda.
 :::
 
 ## Pertimbangan proses editorial
@@ -256,7 +257,7 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 
 ::: {.incremental}
 * Studi besar (*Many Labs* 1, [Open Science Collaboration 2015](https://www.science.org/doi/abs/10.1126/science.aac4716)) menunjukkan: **hanya ~36% klaim ilmiah di psikologi** yang berhasil dicoba-ulang
-* Studi terbaru (_project_ SCORE, [Tyner et al., 2026](https://www.nature.com/articles/s41586-025-10078-y)) menunjukkan bahwa lebih dari separuh (55.1%) klaim ilmiah yang diterbitkan di jurnal-jurnal ilmu sosial dan perilaku, dalam kurun waktu 2009-2018, dapat dicoba-ulang
+* Studi terbaru (_project_ SCORE, [Tyner et al., 2026](https://www.nature.com/articles/s41586-025-10078-y)) menunjukkan bahwa **lebih dari separuh (55.1%) klaim ilmiah** yang diterbitkan di jurnal-jurnal ilmu sosial dan perilaku, dalam kurun waktu 2009-2018, dapat dicoba-ulang
 * Penyebab utama: *publication bias* (hanya hasil positif yang diterbitkan), *p-hacking*, *overselling*, desain penelitian yang lemah
 * Implikasinya untuk kita sebagai penulis *review*:
   * **Hati-hati** dengan menarik kesimpulan dari satu studi 

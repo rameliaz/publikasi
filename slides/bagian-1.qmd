@@ -1,10 +1,10 @@
 ---
 title: "Ekosistem Publikasi Ilmiah"
-subtitle: "_Workshop Penerbitan Ilmiah untuk Mahasiswa Doktoral_: Bagian 1️⃣"
+subtitle: "_Workshop Publikasi Ilmiah untuk Mahasiswa Doktoral_: Bagian 1️⃣"
 author: "Rizqy Amelia Zein"
 institute:
   - "[_Departemen Psikologi, Universitas Airlangga_](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/)"
-  - "[Research Data & Methods Team, Center for Advanced Internet Studies](https://www.cais-research.de/team/rizqy-amelia-zein/)"
+  - "[_Research Data & Methods Team, Center for Advanced Internet Studies_](https://www.cais-research.de/team/rizqy-amelia-zein/)"
 date: today
 format:
   unair-revealjs:
