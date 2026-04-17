@@ -73,7 +73,7 @@ Berapa APC? Apakah ada *fee waiver* untuk peneliti dari negara berkembang? Cek d
 :::
 
 ::: {.callout-note}
-Rekomendasi yang sering diberikan peneliti senior: ***"Submit* di jurnal yang Anda sitir."** Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan.
+Rekomendasi yang sering diberikan peneliti senior: ***"Submit* di jurnal yang Anda sitir."** Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda.
 :::
 
 ## Pertimbangan proses editorial
@@ -89,7 +89,8 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 :::
 
 ::: {.callout-warning}
-**Hindari** memilih jurnal hanya karena *quartile*-nya tinggi atau APC-nya terjangkau. Ketidakcocokan *scope* hampir selalu berakhir dengan *desk reject*.
+#### Hindari
+...memilih jurnal hanya karena *quartile*-nya tinggi atau APC-nya terjangkau. Ketidakcocokan *scope* hampir selalu berakhir dengan *desk reject*.
 :::
 
 ## Strategi khusus untuk *review articles*
@@ -108,15 +109,15 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan sangat diapresiasi oleh *reviewer*.
 :::
 
-## Faktor praktis yang sering dilupakan
+## Faktor-faktor yang sering dilupakan
 
 ::: {.incremental}
 * ***Turnaround time***: berapa lama biasanya dari *submit* hingga keputusan pertama?
   * Cek di website jurnal atau tanya kolega yang pernah *submit* ke jurnal tersebut
 * **APC dan *waiver***: banyak jurnal OA bereputasi menyediakan *waiver* untuk penulis dari negara berpenghasilan menengah-bawah
-  * Selalu **tanyakan *waiver*** jika tersedia — jangan malu
+  * Selalu **tanyakan *waiver*** jika tersedia
 * ***Submission charge***: **RED FLAG** — jurnal bereputasi tidak meminta biaya **sebelum** *peer-review*
-* **Komunikasi editorial**: apakah email dijawab? Apakah ada kontak editorial yang jelas?
+* **Komunikasi editorial**: apakah email selalu dijawab? Apakah ada kontak editorial yang jelas?
 :::
 
 ## *Cover letter* — hal pertama yang editor baca
@@ -144,8 +145,8 @@ Editor tidak pernah membaca _cover letter_🙃 Fokuskan energi Anda untuk menyia
 * **Tunggu 1–2 hari** sebelum mulai merespons
 * Baca **semua** komentar *reviewer* terlebih dahulu, baru mulai menyusun respons
 * Identifikasi: mana yang valid, mana yang perlu klarifikasi, mana yang tidak Anda setujui
-* **Jangan pernah membalas dengan nada defensif atau emosional** — bahkan jika *reviewer* keliru
-* Ingat: *reviewer* menyumbangkan waktunya **secara sukarela** tanpa imbalan
+* **Jangan pernah membalas dengan nada defensif atau emosional** — bahkan jika *reviewer* keliru. Tunjukkan kekeliruan _reviewer_ dengan bukti yang memadai.
+* Ingat: *reviewer* menyumbangkan waktunya **secara sukarela** tanpa imbalan untuk membaca dan meninjau naskah kita
 :::
 
 ## Merespons *reviewer* dengan baik
@@ -180,7 +181,8 @@ Dari yang "paling ringan" hingga paling berat:
 :::
 ::: {.column}
 ::: {.incremental}
-![](https://journals.sagepub.com/cms/10.1177/1745691612459519/asset/197495c2-e9bc-4e89-a1ed-069b12feef30/assets/images/large/10.1177_1745691612459519-fig1.jpg){fig-align="center"}
+
+![](libs/9.jpg){fig-align="center"}
 
 :::
 :::
@@ -202,13 +204,13 @@ Dari yang "paling ringan" hingga paling berat:
 ::: {.column}
 ::: {.incremental}
 
-![](https://journals.sagepub.com/cms/10.1177/1745691612459519/asset/197495c2-e9bc-4e89-a1ed-069b12feef30/assets/images/large/10.1177_1745691612459519-fig1.jpg){fig-align="center"}
+![](libs/9.jpg){fig-align="center"}
 
 :::
 :::
 ::::
 
-## *Overselling* — jebakan yang paling sering kita lakukan
+## *Overselling*
 
 ::: {.incremental}
 * Mengklaim lebih dari yang didukung data adalah *misconduct* yang **paling umum** — dan sering tidak disadari
@@ -216,7 +218,7 @@ Dari yang "paling ringan" hingga paling berat:
   * *"Belum ada penelitian yang membahas ini"* → padahal ada, hanya belum dibaca dengan cermat
   * *"Penelitian ini membuktikan bahwa X menyebabkan Y"* → review bukan RCT, tidak bisa klaim kausalitas
   * *"Temuan ini akan mengubah cara pandang dunia"* → terlalu berlebihan untuk diklaim
-* Konsekuensi: **berkontribusi pada *replication crisis*** dan menyesatkan kebijakan publik
+* Konsekuensi: **berkontribusi pada *replication crisis*** dan menyesatkan pembaca
 :::
 
 ::: {.callout-warning}
@@ -234,7 +236,7 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 | *"semua..."* | *"sebagian besar partisipan dalam studi ini..."* |
 | *"selalu terjadi..."* | *"cenderung terjadi dalam konteks..."* |
 
-: Contoh penggunaan *hedging language* dalam penulisan ilmiah. *Hedging* bukan tanda kelemahan — ini tanda kejujuran ilmiah.
+: Contoh penggunaan *hedging language* dalam penulisan ilmiah. *Hedging* adalah tanda kejujuran ilmiah.
 
 ## Etika publikasi yang perlu diperhatikan
 
@@ -243,18 +245,23 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
   * *Ghost authorship* dan *gift authorship* adalah pelanggaran etika yang serius
 * **Plagiarisme**: parafrase bukan menyalin. Setiap ide yang bukan milik Anda **harus diatribusikan**
 * ***Ethical clearance***: semakin banyak jurnal internasional mensyaratkan ini, bahkan untuk review articles (*PRISMA-P*)
-* **Peran promotor**: supervisor memiliki tanggung jawab etik dalam proses publikasi mahasiswanya — bukan hanya formalitas pencantuman nama
+  - Meskipun _ethical clearance_ sangat tergantung pada kebijakan institusi
+* **Peran promotor**: supervisor memiliki tanggung jawab etik dalam proses publikasi mahasiswanya, bukan hanya formalitas pencantuman nama
+  - Umumnya, penelitian doktoral adalah penelitian mandiri yang dilakukan oleh mahasiswa, bukan penelitian kolaborasi dengan promotor/ko-promotor
+  - Diskusikan secara terbuka dengan promotor/ko-promotor tentang kontribusi dan peran masing-masing dalam penulisan artikel
+  - Jangan menambahkan nama promotor/ko-promotor tanpa persetujuan sebelumnya
 :::
 
 ## Konteks lebih luas: krisis replikasi
 
 ::: {.incremental}
-* Studi besar (*Many Labs*, Open Science Collaboration 2015) menunjukkan: **hanya ~36% temuan psikologi sosial** berhasil direplikasi
+* Studi besar (*Many Labs* 1, [Open Science Collaboration 2015](https://www.science.org/doi/abs/10.1126/science.aac4716)) menunjukkan: **hanya ~36% klaim ilmiah di psikologi** yang berhasil dicoba-ulang
+* Studi terbaru (_project_ SCORE, [Tyner et al., 2026](https://www.nature.com/articles/s41586-025-10078-y)) menunjukkan bahwa lebih dari separuh (55.1%) klaim ilmiah yang diterbitkan di jurnal-jurnal ilmu sosial dan perilaku, dalam kurun waktu 2009-2018, dapat dicoba-ulang
 * Penyebab utama: *publication bias* (hanya hasil positif yang diterbitkan), *p-hacking*, *overselling*, desain penelitian yang lemah
 * Implikasinya untuk kita sebagai penulis *review*:
-  * **Hati-hati** dengan kesimpulan dari studi tunggal
+  * **Hati-hati** dengan menarik kesimpulan dari satu studi 
   * Pertimbangkan **kualitas metodologi** studi yang Anda review, bukan hanya jumlahnya
-  * *Open science* bukan tren — ini kebutuhan ilmiah
+  * Prinsip *open science* (e.g., transparansi, kredibilitas, coba-ulang - _replication_, dan reka-ulang - _reproducibility_) saat ini merupakan tren global dan sudah menjadi norma baru
 :::
 
 ## TUGAS 2️⃣: *Scientific Sell* (25 menit)

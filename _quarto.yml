@@ -8,6 +8,7 @@ project:
   resources:
     - _extensions/
     - libs/
+    - .nojekyll
 
 website:
   title: "Workshop Publikasi Ilmiah"
