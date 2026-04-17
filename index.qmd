@@ -41,7 +41,7 @@ Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan p
 
 - Apa tujuan publikasi ilmiah?
 - Moda komunikasi kesarjanaan dan jenis artikel ilmiah (*original research*, *systematic review*, *scoping review*, dll.)
-- Lanskap jurnal: penerbit besar, pangkalan data (Scopus, WoS, SINTA), dan perbedaan *open access* vs. *paywalled*
+- Lanskap jurnal: penerbit, pangkalan data dan perbedaan jurnal OA vs. non-OA 
 - Mengenali dan menghindari jurnal/penerbit pemangsa (_predatory_)
 - Proses editorial: *submission*, *desk rejection*, *peer-review*, revisi, hingga terbit
 - Struktur naskah ilmiah (IMRAD) dan [PRISMA _guideline_](https://www.prisma-statement.org/prisma-2020-checklist) untuk artikel *meta studies*
@@ -68,15 +68,15 @@ Cek _Journal Articles Reporting Standards_ (JARS):
 
 Berfokus pada **strategi memilih jurnal** dan **integritas riset**, sekaligus **latihan menulis** untuk mengartikulasikan ide penelitian secara meyakinkan.
 
-- Strategi memilih jurnal: 4️⃣ "R" (*relevance, reach, reputation, realism*) dan pertimbangan proses editorial
-- Strategi khusus untuk *review articles*: cek duplikasi, *novelty*, dan registrasi protokol di PROSPERO
+- Strategi memilih jurnal
+- Strategi khusus untuk *review articles*
 - Menulis *cover letter* yang efektif dan spesifik
 - Menjawab komentar _reviewer_
 - Etika publikasi: kepengarangan, plagiarisme, dan peran promotor
 - Krisis replikasi dan mengapa prinsip *open science* penting
-- Manajemen data penelitian (RDM): prinsip FAIR, *open data policy* jurnal, dan _platform_ untuk deposit data (OSF, Zenodo)
-- Menggunakan LLM untuk meneliti dan menulis
+- Manajemen data penelitian (RDM)
 - **Latihan menulis**: *scientific sell* (1 paragraf)
+- Menggunakan LLM untuk meneliti dan menulis
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 2](slides/bagian-2.html){.btn .btn-primary}
 

@@ -23,7 +23,7 @@ execute:
 * Integritas riset dan etika publikasi
 * Manajemen data penelitian (*research data management*)
 * Latihan menulis: *scientific sell*
-* Sumber belajar lanjutan
+* Menggunakan LLM dalam riset dan penulisan
 
 # Strategi memilih jurnal yang tepat {background-color="#14497F" .center}
 
@@ -233,6 +233,8 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 | *"semua..."* | *"sebagian besar partisipan dalam studi ini..."* |
 | *"selalu terjadi..."* | *"cenderung terjadi dalam konteks..."* |
 
+: {tbl-colwidths="[38,62]"}
+
 ## Etika publikasi yang perlu diperhatikan
 
 ::: {.incremental}
@@ -275,40 +277,6 @@ Perbedaan kecil dalam pilihan kata punya dampak besar. *"Studi ini mengeksploras
 Praktik *open science* bukan hanya soal etika penelitian, tetapi juga meningkatkan **peluang diterima** di jurnal bereputasi baik, yang hari ini, banyak yang meminta penulis mengadopsi prinsip _open science_.
 :::
 
-## TUGAS 2️⃣: *Scientific Sell* (25 menit)
-
-Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
-
-::: {.incremental}
-1. Mengapa topik riset Anda (yang sudah dibahas di Tugas 1️⃣) **relevan** secara ilmiah DAN praktis?
-2. Mengapa komunitas ilmiah dan/atau pembuat kebijakan perlu **peduli** dengan pertanyaan penelitian Anda?
-3. Apa yang **belum diketahui** yang ingin Anda ungkap?
-4. Tuliskan tugas Anda di [halaman Padlet ini](https://padlet.com/ameliazein/berlatih-menulis-xcpa9ybswkvfuvlt)
-:::
-
-:::: {.columns}
-::: {.column}
-::: {.callout-warning}
-**Hindari** ❌
-
-* *"Belum ada yang meneliti ini..."*
-* *"Penelitian ini akan membuktikan..."*
-* Angka yang tidak ada sumbernya
-* Klaim adanya efek sebelum data dikumpulkan/dianalisis
-:::
-:::
-::: {.column}
-::: {.callout-note}
-**Gunakan** ✅
-
-* Angka/fakta yang bisa diverifikasi
-* Sitasi penelitian sebelumnya
-* *Hedging*: "mengindikasikan...", "cenderung...", "dalam konteks..."
-
-:::
-:::
-::::
-
 # Manajemen data penelitian {background-color="#14497F" .center}
 
 ## Apa itu *research data management* (RDM)?
@@ -348,6 +316,40 @@ RDM bukan hanya formalitas — data yang terdokumentasi dengan baik memungkinkan
 Sebelum *submit*, baca bagian ***data availability statement*** di *author guidelines*. Banyak jurnal bereputasi baik kini mensyaratkan pernyataan ini di dalam naskah, bahkan jika data tidak dapat dibagikan secara publik, alasannya harus dijelaskan secara eksplisit.
 :::
 :::
+
+## TUGAS 2️⃣: *Scientific Sell* (25 menit)
+
+Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
+
+::: {.incremental}
+1. Mengapa topik riset Anda (yang sudah dibahas di Tugas 1️⃣) **relevan** secara ilmiah DAN praktis?
+2. Mengapa komunitas ilmiah dan/atau pembuat kebijakan perlu **peduli** dengan pertanyaan penelitian Anda?
+3. Apa yang **belum diketahui** yang ingin Anda ungkap?
+4. Tuliskan tugas Anda di [halaman Padlet ini](https://padlet.com/ameliazein/berlatih-menulis-xcpa9ybswkvfuvlt)
+:::
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+**Hindari** ❌
+
+* *"Belum ada yang meneliti ini..."*
+* *"Penelitian ini akan membuktikan..."*
+* Angka yang tidak ada sumbernya
+* Klaim adanya efek sebelum data dikumpulkan/dianalisis
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Gunakan** ✅
+
+* Angka/fakta yang bisa diverifikasi
+* Sitasi penelitian sebelumnya
+* *Hedging*: "mengindikasikan...", "cenderung...", "dalam konteks..."
+
+:::
+:::
+::::
 
 # Menggunakan LLM🤖 {background-color="#14497F" .center}
 

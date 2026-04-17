@@ -162,16 +162,32 @@ Tiga komponen utama:
 * ***Open access* (OA)**
   * Artikel bisa diakses bebas tanpa biaya langganan
   * Hak cipta (*copyrights*) **tetap** di tangan penulis
-  * Penulis biasanya membayar *Article Processing Charge* (APC) — **dibayar setelah *accepted***
+  * Penulis biasanya membayar *Article Processing Charge* (APC) — **dibayar setelah naskah *accepted***
 
-* ***Paywalled journal***
+* ***Non-OA journal***
   * Pembaca membutuhkan biaya langganan yang mahal
   * Hak cipta (*copyrights*) **ditransfer** ke jurnal/penerbit
   * Biasanya tidak ada APC untuk penulis
 :::
 
 ::: {.callout-note}
-Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sangat bagus dan banyak *paywalled journal* yang kualitasnya rendah.
+Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sangat bagus dan banyak *non-OA journal* yang kualitasnya rendah.
+:::
+
+## Jenis-jenis jurnal berdasarkan *open access policy*
+
+| Jenis | APC | Lisensi | Contoh |
+|---|---|---|---|
+| **Gold OA** | Dibayar penulis (bisa mahal) | [<i class="fab fa-creative-commons"><i class="fa fa-universal-access"></i></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PLOS ONE, Frontiers |
+| **Diamond OA** | Gratis untuk penulis & pembaca | [<i class="fab fa-creative-commons"><i class="fa fa-universal-access"></i></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/) | sebagian jurnal universitas |
+| **Green OA** | Tidak ada | Tergantung penulis, umumnya [<i class="fab fa-creative-commons"><i class="fa fa-universal-access"></i></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/) | *preprint* di PsyArXiv/OSF |
+| **Hybrid OA** | Opsional, perlu bayar kalau ingin artikel OA | Kalau OA, maka [<i class="fab fa-creative-commons"><i class="fa fa-universal-access"></i></i> BY 4.0](https://creativecommons.org/licenses/by/4.0/) | banyak jurnal Elsevier/Wiley |
+
+: {tbl-colwidths="[15,42,18,25]"}
+
+::: {.callout-warning}
+#### Hybrid OA 
+Sering dianggap model yang paling tidak menguntungkan peneliti. Penerbit mendapatkan APC *dan* biaya langganan dari institusi (*"double dipping"*). [*cOAlition S* / *Plan S*](https://www.coalition-s.org/), yaitu koalisi *funder* Eropa yang mencakup Wellcome Trust dan banyak lembaga riset di Eropa (e.g., Deustche Forschungsgemeinschaft (DFG)), secara eksplisit melarang publikasi di jurnal *hybrid* kecuali ada *transformative agreement* antara institusi/konsorsium universitas dengan penerbit.
 :::
 
 # Waspada jurnal/penerbit pemangsa {background-color="#14497F" .center}
@@ -298,7 +314,7 @@ Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih r
 :::
 ::::
 
-## Naskah yang baik — apa saja?
+## Naskah yang baik — apa saja karakteristiknya?
 
 ::: {.incremental}
 Kompromi antara semua pihak di atas. Naskah yang baik:
@@ -311,70 +327,10 @@ Kompromi antara semua pihak di atas. Naskah yang baik:
 * Memiliki **tata bahasa yang baik** (termasuk bahasa Inggris yang konsisten)
 :::
 
-## Struktur naskah ilmiah (IMRAD)
+## Struktur naskah ilmiah ([IMRAD](https://link.springer.com/article/10.1007/s10980-011-9674-3))
 
-::: {.incremental}
-* **I**ntroduction — *WHY?*
-  * Apa konteks? Apa yang sudah diketahui? Apa kesenjangan (*gap*)? Apa pertanyaan penelitian?
-* **M**ethods — *HOW?*
-  * Apa yang dilakukan untuk menjawab pertanyaan penelitian?
-* **R**esults — *WHAT?*
-  * Apa yang ditemukan? Disajikan dalam tabel, gambar, dan narasi
-* **A**nd **D**iscussion — *SO WHAT?*
-  * Apa artinya? Bagaimana ini masuk dalam literatur yang lebih luas? Apa implikasinya?
-:::
-
-::: {.callout-note}
-Untuk ***scoping/systematic review***: ikuti panduan **PRISMA** (*Preferred Reporting Items for Systematic reviews and Meta-Analyses*). Logika IMRAD tetap berlaku, terutama untuk Introduction dan Discussion.
-:::
-
-# Menulis *Introduction* {background-color="#14497F" .center}
-
-## *Introduction* bukan latar belakang — ini argumen
-
-::: {.incremental}
-* Banyak penulis memperlakukan *Introduction* sebagai "ringkasan literatur" — padahal fungsinya berbeda
-* *Introduction* harus menjawab **empat pertanyaan** secara berurutan:
-  1. **Apa yang sudah diketahui?** — konteks dan *state of the art*
-  2. **Apa yang belum diketahui / masih bermasalah?** — *research gap*
-  3. **Mengapa gap ini penting untuk diisi?** — justifikasi penelitian
-  4. **Apa yang akan dilakukan dalam studi ini?** — tujuan dan pertanyaan penelitian
-* Strukturnya seperti **corong** (*funnel*): dari luas ke spesifik
-:::
-
-::: {.callout-note}
-Model klasik yang berguna: **CARS** (*Create A Research Space*, Swales, 1990) — *establish a territory → establish a niche → occupy the niche*. Berlaku untuk semua jenis artikel ilmiah.
-:::
-
-## Menulis *Introduction* untuk *review articles*
-
-:::: {.columns}
-::: {.column}
-::: {.incremental}
-**Yang harus ada** ✅
-
-* Konteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?
-* Bukti bahwa *gap* memang ada — **bukan hanya klaim**, tapi didukung sitasi
-* Justifikasi *review*: mengapa review ini diperlukan sekarang?
-* Diferensiasi dari review yang sudah ada — apa nilai tambahnya?
-* Tujuan *review* yang spesifik dan terukur
-:::
-:::
-::: {.column}
-::: {.incremental}
-**Yang perlu dihindari** ❌
-
-* Membuka dengan kalimat terlalu umum (*"Kesehatan mental adalah isu penting..."*)
-* *Gap* yang diklaim tanpa dukungan bukti
-* *"Belum ada penelitian yang..."* — hampir selalu tidak akurat
-* Tujuan yang terlalu luas atau ambigu
-:::
-
-::: {.callout-warning}
-*Introduction* yang lemah adalah alasan *desk rejection* terbanyak kedua setelah ketidakcocokan *scope*.
-:::
-:::
-::::
+![](libs/imrad.webp){fig-align="center"}
+:Sumber [Wu, 2011](https://link.springer.com/article/10.1007/s10980-011-9674-3)
 
 # Naskah yang layak terbit {background-color="#14497F" .center}
 
@@ -407,6 +363,55 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 ::: {.callout-warning}
 **Penting**: Penolakan (*rejection*) bukan akhir dunia. Banyak paper terkenal pernah ditolak berkali-kali sebelum akhirnya terbit.
 :::
+
+# Menulis *Introduction* {background-color="#14497F" .center}
+
+## *Introduction*
+
+::: {.incremental}
+* Banyak penulis memperlakukan *Introduction* sebagai "ringkasan literatur" — padahal fungsinya berbeda
+* *Introduction* harus menjawab **empat pertanyaan** secara berurutan:
+  1. **Apa yang sudah diketahui?** — konteks dan *state of the art*
+  2. **Apa yang belum diketahui / masih bermasalah?** — *research gap*
+  3. **Mengapa gap ini penting untuk diisi?** — justifikasi penelitian
+  4. **Apa yang akan dilakukan dalam studi ini?** — tujuan dan pertanyaan penelitian
+* Strukturnya seperti **corong** (*funnel*): dari luas ke spesifik
+:::
+
+::: {.callout-note}
+#### Create a research space (CARS)
+Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](https://marymount.edu/academics/wp-content/uploads/sites/3/2021/08/CARS-Model-of-Research-Introductions.pdf)) — *establish a territory → establish a niche → occupy the niche*.
+:::
+
+## Menulis *Introduction* untuk *review articles*
+
+:::: {.columns}
+::: {.column}
+::: {.incremental}
+**Yang harus ada** ✅
+
+* Konteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?
+* Bukti bahwa *gap* memang ada — **bukan hanya klaim**, tapi didukung sitasi
+* Justifikasi *review*: mengapa review ini diperlukan sekarang?
+* Diferensiasi dari review yang sudah ada — apa nilai tambahnya?
+* Tujuan *review* yang spesifik dan terukur
+:::
+:::
+::: {.column}
+::: {.incremental}
+**Yang perlu dihindari** ❌
+
+* Membuka dengan kalimat terlalu umum (*"Kesehatan mental adalah isu penting..."*)
+* *Gap* yang diklaim tanpa dukungan bukti
+* *"Belum ada penelitian yang..."* — hampir selalu tidak akurat
+* Tujuan yang terlalu luas atau ambigu
+:::
+
+::: {.callout-warning}
+*Introduction* yang lemah adalah alasan *desk rejection* terbanyak kedua setelah ketidakcocokan *scope*.
+:::
+:::
+::::
 
 # Menulis *Discussion* dan *Abstract* {background-color="#14497F" .center}
 
@@ -468,32 +473,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 :::
 ::::
 
-## "_Ngeles_ dengan elegan"
-
-::: {.incremental}
-* Semua penelitian punya keterbatasan — **jangan disembunyikan**, justru tuliskan secara transparan
-* Tapi: membahas keterbatasan **bukan berarti _apologetic_** atas kekurangan penelitian Anda
-* "_Ngeles_ dengan elegan" = mengakui keterbatasan **sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur**
-:::
-
-:::: {.columns}
-::: {.column}
-::: {.callout-warning}
-**Terlalu apologetis** ❌
-
-*"Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati."*
-:::
-:::
-::: {.column}
-::: {.callout-note}
-**Elegan** ✅
-
-*"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya -  pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
-:::
-:::
-::::
-
-## Menulis *Abstract* — tulis paling terakhir
+## Menulis *Abstract* — lakukan paling terakhir
 
 ::: {.incremental}
 * *Abstract* adalah bagian yang **paling sering dibaca** — tapi sebaiknya **ditulis paling terakhir**
@@ -508,14 +488,39 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 :::
 
 ::: {.callout-warning}
-**Hindari**: menyalin kalimat langsung dari badan naskah. *Abstract* adalah **ringkasan orisinal**, bukan *copy-paste*.
+**Hindari**: menyalin kalimat langsung dari badan naskah. *Abstract* adalah **ringkasan yang berdiri sendiri**.
 :::
+
+## "_Ngeles_ dengan elegan"
+
+::: {.incremental}
+* Semua penelitian punya keterbatasan — **jangan disembunyikan**, justru tuliskan secara transparan
+* Tapi: membahas keterbatasan **bukan berarti _apologetic_** atas kekurangan penelitian Anda
+* "_Ngeles_ dengan elegan" = mengakui keterbatasan **sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur**
+:::
+
+:::: {.columns}
+::: {.column}
+::: {.callout-warning}
+**Terlalu apologetik** ❌
+
+*"Penelitian ini memiliki banyak keterbatasan sehingga temuannya tidak dapat digeneralisasi dan harus ditafsirkan dengan sangat hati-hati."*
+:::
+:::
+::: {.column}
+::: {.callout-note}
+**Elegan** ✅
+
+*"Meski cakupan studi ini terbatas pada konteks Indonesia, ini justru membuka ruang untuk studi komparatif lintas budaya -  pertanyaan yang selama ini kurang mendapat perhatian dalam literatur."*
+:::
+:::
+::::
 
 ## Bagaimana membahas *null results*?
 
 ::: {.incremental}
 * Hasil "negatif" (*null*) dibahas **persis seperti hasil "positif"** — dengan struktur dan *flow* yang sama
-* Tidak ada perbedaan **cara** membahasnya — yang ada adalah **bias editorial**
+* Tidak ada perbedaan **cara** membahasnya, yang perlu diwaspadai adalah **bias editor**
 * Editor jurnal masih cenderung lebih menerima hasil "positif" → naskah *null results* lebih susah lolos
 * **TETAPI**: jika protokol studi sudah didaftarkan (*preregistration*) atau sudah melalui *Registered Report* sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi *as it is*
 * Lebih detailnya, saya membahas [bagaimana cara melaporkan _null results_ disini](https://rameliaz.github.io/tutorial/hasilnegatif.html)
