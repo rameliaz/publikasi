@@ -68,11 +68,6 @@ Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](h
 * *"Belum ada penelitian yang..."* — hampir selalu tidak akurat
 * Tujuan yang terlalu luas atau ambigu
 :::
-
-::: {.callout-warning}
-#### *Introduction* membentuk impresi editor
-*Introduction* yang lemah adalah alasan *desk rejection* terbanyak kedua setelah ketidakcocokan *scope*.
-:::
 :::
 ::::
 
@@ -215,6 +210,24 @@ Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
 *Submit* ke jurnal yang *scope*-nya tidak cocok = hampir pasti *desk reject*. Editor bisa langsung melihat ini.
 :::
 
+## Mengapa naskah di-*desk reject*? Contoh: *Psychological Science*
+
+::: {.incremental}
+Berdasarkan panduan *submission* [*Psychological Science* (per 30 Januari 2026)](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions), alasan *desk reject* pada *initial editorial review* (Tier 1):
+
+* **Tipe artikel secara eksplisit tidak diharapkan** — *meta-analyses and other forms of evidence synthesis are **typically not considered***
+* **Aspek kebaruan yang ditawarkan kurang memadai** — harus *"address an issue that makes a difference in the way psychologists think"*; ekstensi inkremental tidak cukup kuat; penekanan pada **inovasi dalam tujuan penelitian dan desain**, bukan sekadar hasil penelitian
+* **_Overclaiming_** — kesimpulan yang tidak terkalibrasi dengan bukti atau keterbatasan desain *"are more likely to be rejected"*
+* **Ketidakcocokan antara desain dan tujuan** — antara *research aims* dan *research design*, atau antara *empirical results* dan *conclusions*
+* **Tanda-tanda fleksibilitas dalam menganalisis data** — *signs of flexibility in data collection or analysis* (e.g., *p-hacking*, perubahan hipotesis *post hoc*)
+* **Risiko tinggi *statistical inference error*** — *false positive/negative*, *inflated effect size*
+:::
+
+::: {.callout-warning}
+#### Pelajarannya
+*Desk reject* terjadi bukan hanya kualitas naskah yang dinilai kurang memadai — tetapi bisa juga karena **ketidakcocokan *scope*** dan penulis melakukan ***overclaim*** dalam naskahnya.
+:::
+
 ## 4️⃣®️ dalam memilih jurnal
 
 ::: {.incremental}
@@ -230,11 +243,11 @@ Berapa APC yang harus dibayarkan? Apakah ada *fee waiver* untuk peneliti dari ne
 :::
 :::
 
-## Metrik bukan ukuran kualitas — hanya heuristik
+## Bibliometrik adalah heuristik
 
 ::: {.incremental}
 * ***Impact Factor* (JIF)**, *quartile* Scopus (Q1–Q4), dan *h-index* adalah **metrik prestise** — bukan ukuran kualitas artikel secara langsung
-* Fungsi praktisnya: membantu **seleksi awal** target jurnal untuk keperluan PAK atau promosi jabatan
+* Fungsi praktisnya: membantu **seleksi awal** target jurnal agar setidaknya _eligible_ untuk keperluan PAK atau syarat kelulusan S3
 * Yang lebih penting untuk dijadikan dasar:
   * Apakah komunitas yang Anda tuju **membaca** jurnal ini?
   * Apakah jurnal ini **menerbitkan artikel sejenis** dengan naskah Anda?
@@ -280,7 +293,7 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 Daftarkan protokol review Anda di [**PROSPERO**](https://www.crd.york.ac.uk/prospero/) sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan sangat diapresiasi oleh *reviewer*.
 :::
 
-## *Cover letter* — hal pertama yang editor baca
+## *Cover letter*
 
 ::: {.incremental}
 * *Cover letter* adalah **kesan pertama** — editor membacanya sebelum membuka naskah
@@ -543,10 +556,13 @@ Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya memb
 
 * [ChatPDF](https://www.chatpdf.com/) ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam
 
-* [Research Rabbit AI](https://app.researchrabbit.ai/) ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data sitasi
+* [Research Rabbit AI](https://app.researchrabbit.ai/) ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data kutipan
 
 * [ScienceOS](https://www.scienceos.ai/) ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif
   - Model LLM sudah di*fine-tune* agar lebih responsif dengan konteks saintifik
+
+* [NotebookLM](https://notebooklm.google.com/) ➡️ dapat membantu mahasiswa untuk belajar mendalam
+  - Bisa membuat _mindmap_, _flashcards_, _podcast_, visualisasi data, laporan dan presentasi dari berkas pdf yang diunggah
 
 :::
 

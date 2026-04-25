@@ -18,7 +18,7 @@
     "href": "slides/bagian-2.html#menulis-introduction-untuk-review-articles",
     "title": "Strategi Publikasi",
     "section": "Menulis Introduction untuk review articles",
-    "text": "Menulis Introduction untuk review articles\n\n\nYang harus ada ✅\n\nKonteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?\nBukti bahwa gap memang ada — bukan hanya klaim sepihak dari penulis, tapi didukung argumen yang memadai\nJustifikasi review: mengapa review ini diperlukan sekarang?\nDiferensiasi dari review yang sudah ada — apa nilai tambahnya?\nTujuan review yang spesifik dan terukur\n\n\nYang perlu dihindari ❌\n\nMembuka dengan kalimat terlalu umum (“Kesehatan mental adalah isu penting…”, atau “Manusia adalah makhluk sosial…”)\nGap yang diklaim tanpa dukungan bukti\n“Belum ada penelitian yang…” — hampir selalu tidak akurat\nTujuan yang terlalu luas atau ambigu\n\n\n\n\n\n\n\nIntroduction membentuk impresi editor\n\n\nIntroduction yang lemah adalah alasan desk rejection terbanyak kedua setelah ketidakcocokan scope."
+    "text": "Menulis Introduction untuk review articles\n\n\nYang harus ada ✅\n\nKonteks: mengapa topik ini relevan secara ilmiah dan/atau praktis?\nBukti bahwa gap memang ada — bukan hanya klaim sepihak dari penulis, tapi didukung argumen yang memadai\nJustifikasi review: mengapa review ini diperlukan sekarang?\nDiferensiasi dari review yang sudah ada — apa nilai tambahnya?\nTujuan review yang spesifik dan terukur\n\n\nYang perlu dihindari ❌\n\nMembuka dengan kalimat terlalu umum (“Kesehatan mental adalah isu penting…”, atau “Manusia adalah makhluk sosial…”)\nGap yang diklaim tanpa dukungan bukti\n“Belum ada penelitian yang…” — hampir selalu tidak akurat\nTujuan yang terlalu luas atau ambigu"
   },
   {
     "objectID": "slides/bagian-2.html#mengapa-menulis-discussion-itu-paling-sulit",
@@ -70,6 +70,13 @@
     "text": "Prinsip dasar: kenali jurnal sebelum submit\n\nMembaca aims & scope jurnal dengan serius — bukan formalitas yang dilewati\nTelusuri artikel yang diterbitkan 2–3 tahun terakhir: apakah topik Anda relevan?\nPerhatikan gaya penulisan dan struktur naskah yang diterima di jurnal tersebut\nCek author guidelines dengan cermat sebelum mulai menulis atau merevisi\nSatu naskah — satu jurnal pada satu waktu (no simultaneous submissions)\n\n\n\n\n\n\n\nPenting\n\n\nSubmit ke jurnal yang scope-nya tidak cocok = hampir pasti desk reject. Editor bisa langsung melihat ini."
   },
   {
+    "objectID": "slides/bagian-2.html#mengapa-naskah-di-desk-reject-contoh-psychological-science",
+    "href": "slides/bagian-2.html#mengapa-naskah-di-desk-reject-contoh-psychological-science",
+    "title": "Strategi Publikasi",
+    "section": "Mengapa naskah di-desk reject? Contoh: Psychological Science",
+    "text": "Mengapa naskah di-desk reject? Contoh: Psychological Science\nBerdasarkan panduan submission Psychological Science (per 30 Januari 2026), alasan desk reject pada initial editorial review (Tier 1):\n\nTipe artikel secara eksplisit tidak diharapkan — meta-analyses and other forms of evidence synthesis are typically not considered\nAspek kebaruan yang ditawarkan kurang memadai — harus “address an issue that makes a difference in the way psychologists think”; ekstensi inkremental tidak cukup kuat; penekanan pada inovasi dalam tujuan penelitian dan desain, bukan sekadar hasil penelitian\nOverclaiming — kesimpulan yang tidak terkalibrasi dengan bukti atau keterbatasan desain “are more likely to be rejected”\nKetidakcocokan antara desain dan tujuan — antara research aims dan research design, atau antara empirical results dan conclusions\nTanda-tanda fleksibilitas dalam menganalisis data — signs of flexibility in data collection or analysis (e.g., p-hacking, perubahan hipotesis post hoc)\nRisiko tinggi statistical inference error — false positive/negative, inflated effect size\n\n\n\n\n\n\n\nPelajarannya\n\n\nDesk reject terjadi bukan hanya kualitas naskah yang dinilai kurang memadai — tetapi bisa juga karena ketidakcocokan scope dan penulis melakukan overclaim dalam naskahnya."
+  },
+  {
     "objectID": "slides/bagian-2.html#dalam-memilih-jurnal",
     "href": "slides/bagian-2.html#dalam-memilih-jurnal",
     "title": "Strategi Publikasi",
@@ -77,11 +84,11 @@
     "text": "4️⃣®️ dalam memilih jurnal\n\nRelevance — apakah topik Anda benar-benar sesuai dengan scope jurnal?\nReach — siapa pembaca jurnal tersebut? Apakah sesuai audiens yang Anda tuju?\nReputation — bagaimana persepsi komunitas ilmiah terhadap jurnal ini? (bukan hanya impact factor)\nRealism — apakah naskah Anda kompetitif untuk jurnal tersebut?\n\n\n\n\n\n\n\nBonus R: Resources\n\n\nBerapa APC yang harus dibayarkan? Apakah ada fee waiver untuk peneliti dari negara berkembang? Cek dulu, karena banyak jurnal yang menyediakan waiver tapi tidak disebutkan secara eksplisit."
   },
   {
-    "objectID": "slides/bagian-2.html#metrik-bukan-ukuran-kualitas-hanya-heuristik",
-    "href": "slides/bagian-2.html#metrik-bukan-ukuran-kualitas-hanya-heuristik",
+    "objectID": "slides/bagian-2.html#bibliometrik-adalah-heuristik",
+    "href": "slides/bagian-2.html#bibliometrik-adalah-heuristik",
     "title": "Strategi Publikasi",
-    "section": "Metrik bukan ukuran kualitas — hanya heuristik",
-    "text": "Metrik bukan ukuran kualitas — hanya heuristik\n\nImpact Factor (JIF), quartile Scopus (Q1–Q4), dan h-index adalah metrik prestise — bukan ukuran kualitas artikel secara langsung\nFungsi praktisnya: membantu seleksi awal target jurnal untuk keperluan PAK atau promosi jabatan\nYang lebih penting untuk dijadikan dasar:\n\nApakah komunitas yang Anda tuju membaca jurnal ini?\nApakah jurnal ini menerbitkan artikel sejenis dengan naskah Anda?\nBerapa lama proses review-nya biasanya?\n\n\n\n\n\n\n\n\nRekomendasi yang sering diberikan peneliti senior\n\n\nSubmit di jurnal yang Anda sering sitir. Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda."
+    "section": "Bibliometrik adalah heuristik",
+    "text": "Bibliometrik adalah heuristik\n\nImpact Factor (JIF), quartile Scopus (Q1–Q4), dan h-index adalah metrik prestise — bukan ukuran kualitas artikel secara langsung\nFungsi praktisnya: membantu seleksi awal target jurnal agar setidaknya eligible untuk keperluan PAK atau syarat kelulusan S3\nYang lebih penting untuk dijadikan dasar:\n\nApakah komunitas yang Anda tuju membaca jurnal ini?\nApakah jurnal ini menerbitkan artikel sejenis dengan naskah Anda?\nBerapa lama proses review-nya biasanya?\n\n\n\n\n\n\n\n\nRekomendasi yang sering diberikan peneliti senior\n\n\nSubmit di jurnal yang Anda sering sitir. Jika jurnal tersebut sudah muncul di daftar pustaka Anda, berarti komunitas pembacanya memang relevan dengan topik riset Anda."
   },
   {
     "objectID": "slides/bagian-2.html#pertimbangan-proses-editorial",
@@ -98,11 +105,11 @@
     "text": "Strategi khusus untuk review articles\n\nScoping dan systematic review punya masih punya tempat di komunitas ilmiah, tetapi kompetisi juga ketat\n\nAda tren scoping dan systematic review lebih sulit diterbitkan karena ada lonjakan tipe artikel yang sama yang berasal dari paper mill\n\nSebelum menulis, lakukan cek duplikasi: apakah review serupa sudah diterbitkan baru-baru ini?\n\nJika ya → naskah Anda harus punya nilai tambah yang jelas\n\nNovelty bisa datang dari: populasi berbeda, konteks berbeda, periode lebih baru, metodologi lebih ketat\n\nGunakan strategi systematic search meskipun untuk scoping review\n\nBeberapa jurnal punya section khusus untuk review articles, jadi prioritaskan jurnal-jurnal ini\n\n\n\n\n\n\n\nTips\n\n\nDaftarkan protokol review Anda di PROSPERO sebelum mulai pengumpulan data. Ini meningkatkan kredibilitas dan sangat diapresiasi oleh reviewer."
   },
   {
-    "objectID": "slides/bagian-2.html#cover-letter-hal-pertama-yang-editor-baca",
-    "href": "slides/bagian-2.html#cover-letter-hal-pertama-yang-editor-baca",
+    "objectID": "slides/bagian-2.html#cover-letter",
+    "href": "slides/bagian-2.html#cover-letter",
     "title": "Strategi Publikasi",
-    "section": "Cover letter — hal pertama yang editor baca",
-    "text": "Cover letter — hal pertama yang editor baca\n\nCover letter adalah kesan pertama — editor membacanya sebelum membuka naskah\nCover letter yang baik berisi:\n\nJudul dan jenis artikel yang diajukan\nPernyataan singkat tentang apa yang dilakukan dan mengapa relevan untuk jurnal tersebut\nKontribusi utama dalam 2–3 kalimat — apa novelty-nya?\nKonfirmasi bahwa naskah tidak sedang disubmit ke jurnal lain (no simultaneous submission)\nKonfirmasi kelayakan etik (ethical clearance) hanya jika relevan\n\nSebutkan secara eksplisit mengapa naskah ini cocok untuk jurnal yang dituju\n\n\n\n\n\n\n\nSebenarnya🙈\n\n\nEditor tidak pernah membaca cover letter🙃 Fokuskan energi Anda untuk menyiapkan naskah. Cover letter dapat ditulis oleh LLM."
+    "section": "Cover letter",
+    "text": "Cover letter\n\nCover letter adalah kesan pertama — editor membacanya sebelum membuka naskah\nCover letter yang baik berisi:\n\nJudul dan jenis artikel yang diajukan\nPernyataan singkat tentang apa yang dilakukan dan mengapa relevan untuk jurnal tersebut\nKontribusi utama dalam 2–3 kalimat — apa novelty-nya?\nKonfirmasi bahwa naskah tidak sedang disubmit ke jurnal lain (no simultaneous submission)\nKonfirmasi kelayakan etik (ethical clearance) hanya jika relevan\n\nSebutkan secara eksplisit mengapa naskah ini cocok untuk jurnal yang dituju\n\n\n\n\n\n\n\nSebenarnya🙈\n\n\nEditor tidak pernah membaca cover letter🙃 Fokuskan energi Anda untuk menyiapkan naskah. Cover letter dapat ditulis oleh LLM."
   },
   {
     "objectID": "slides/bagian-2.html#saat-menerima-review-jangan-langsung-dibalas",
@@ -200,7 +207,7 @@
     "href": "slides/bagian-2.html#llm-based-software-yang-membantu-saya",
     "title": "Strategi Publikasi",
     "section": "LLM-based software yang membantu saya",
-    "text": "LLM-based software yang membantu saya\n\nClaude Code\n\nDigunakan sebagai coding assistant dan otomatisasi workflow\n\nChatPDF ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam\nResearch Rabbit AI ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data sitasi\nScienceOS ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif\n\nModel LLM sudah difine-tune agar lebih responsif dengan konteks saintifik"
+    "text": "LLM-based software yang membantu saya\n\nClaude Code\n\nDigunakan sebagai coding assistant dan otomatisasi workflow\n\nChatPDF ➡️ Cocok untuk mempelajari satu literatur (dalam 1 file .pdf) secara mendalam\nResearch Rabbit AI ➡️ Membantu melihat keterkaitan antara satu artikel/literatur dengan literatur yang lain melalui data kutipan\nScienceOS ➡️ dapat digunakan untuk mempelajari beberapa dokumen pdf sekaligus secara interaktif\n\nModel LLM sudah difine-tune agar lebih responsif dengan konteks saintifik\n\nNotebookLM ➡️ dapat membantu mahasiswa untuk belajar mendalam\n\nBisa membuat mindmap, flashcards, podcast, visualisasi data, laporan dan presentasi dari berkas pdf yang diunggah"
   },
   {
     "objectID": "slides/bagian-2.html#ada-pertanyaan",
