@@ -17,9 +17,10 @@ _Workshop_ ini diselenggarakan atas inisiatif komunitas Airlangga _Doctoral Enri
 _Workshop_ dilaksanakan pada hari **Jumat - Sabtu, 22-23 Mei 2026, pukul 13.00 - 15.00 WIB** secara virtual melalui Microsoft Teams.
 
 ::: {.callout-note}
-#### Catatan 
-Peserta dapat _join meeting_ melalui _browser_, sehingga **tidak harus** _login_ atau memiliki akun MS Teams. 
-Namun, apabila peserta ingin menyimpan atau mengakses _history chat_ setelah _workshop_ berakhir, peserta disarankan untuk _login_ akun Microsoft yang disediakan Universitas Airlangga (email dengan domain `@drive.unair.ac.id`) sebelum _join meeting_.
+#### Menggunakan Microsoft Teams
+Untuk *user experience* yang terbaik, peserta **sangat disarankan** untuk [mengunduh aplikasi MS Teams](https://www.microsoft.com/en-us/microsoft-teams/download-app) di perangkatnya masing-masing lalu *login* akun Microsoft Unair (email dengan domain `@drive.unair.ac.id`) sebelum _join meeting_. [Baca panduan dari DSI Universitas Airlangga](https://drive.google.com/file/d/1GZRz9a7TBCpDvYjJJE_ny8-3rgShKK_6/view) untuk mengetahui langkah-langkahnya.
+
+Alternatifnya, peserta dapat _join meeting_ melalui _browser_, sehingga **tidak harus** _login_ atau memiliki akun MS Teams. 
 :::
 
 :::{style="text-align: center;"}
@@ -37,7 +38,7 @@ Klik _navigation bar_ yang mengarah pada PDF materi, kemudian tekan `ctrl` dan `
 
 ### Blok 1️⃣: Ekosistem Publikasi Ilmiah
 
-Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan proses editorial, hingga menulis naskah yang layak terbit.
+Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap penerbitan ilmiah sampai proses editorial di jurnal.
 
 - Apa tujuan publikasi ilmiah?
 - Moda komunikasi kesarjanaan dan jenis artikel ilmiah (*original research*, *systematic review*, *scoping review*, dll.)
@@ -50,9 +51,9 @@ Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap jurnal dan p
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 1](slides/bagian-1.html){.btn .btn-primary}
 
-### Blok 2️⃣: Strategi Publikasi & Latihan Menulis
+### Blok 2️⃣: Strategi Publikasi Ilmiah
 
-Berfokus pada **strategi memilih jurnal**, **teknik menulis naskah ilmiah**, dan **integritas riset**, sekaligus **latihan menulis** untuk mengartikulasikan ide penelitian secara meyakinkan.
+Berfokus pada **strategi memilih jurnal**, **teknik menulis naskah ilmiah**, dan **integritas riset dan publikasi**.
 
 - Menulis *Introduction*: struktur corong, *research gap*, dan model CARS
 - Menulis *Discussion* yang efektif: alur, keterbatasan, dan *null results*
@@ -65,7 +66,7 @@ Berfokus pada **strategi memilih jurnal**, **teknik menulis naskah ilmiah**, dan
 - Krisis replikasi dan mengapa prinsip *open science* penting
 - Manajemen data penelitian (RDM)
 - **Latihan menulis**: *scientific sell* (1 paragraf)
-- Menggunakan LLM untuk meneliti dan menulis
+- Menggunakan LLM🤖 untuk meneliti dan menulis
 
 [{{< fa file-powerpoint >}} Buka Materi Blok 2](slides/bagian-2.html){.btn .btn-primary}
 
@@ -73,7 +74,7 @@ Berfokus pada **strategi memilih jurnal**, **teknik menulis naskah ilmiah**, dan
 #### Menulis _methods_ dan _results_
 _Workshop_ ini **tidak akan membahas** secara spesifik bagaimana menulis bagian _methods_ dan _results_ karena sudah ada panduan yang sangat terstruktur dan komprehensif bagaimana cara menulis kedua bagian ini.
 
-Cek _Journal Articles Reporting Standards_ (JARS):
+**_Journal Articles Reporting Standards_ (JARS)**:
 
 * Untuk penelitian kuantitatif: [_Checklist_](https://apastyle.apa.org/jars/quantitative); [Appelbaum, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-002.pdf)
 * Untuk penelitian kualitatif: [_Checklist_](https://apastyle.apa.org/jars/qualitative); [Levitt, et al. (2018)](https://psycnet.apa.org/fulltext/2018-00750-003.pdf)
