@@ -62,7 +62,7 @@ Oleh karena itu, **memilah jurnal adalah proses yang sangat penting** dan akan k
 
 ## Moda komunikasi kesarjanaan
 
-::: {.columns}
+:::: {.columns}
 ::: {.column width="60%"}
 
 ::: {.incremental}
@@ -80,11 +80,11 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 ![](libs/monograf.PNG){fig-align="center" width="90%"}
 
 :::
-:::
+::::
 
 ## Moda komunikasi kesarjanaan
 
-::: {.columns}
+:::: {.columns}
 ::: {.column width="60%"}
 
 ::: {.incremental}
@@ -101,7 +101,7 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 ![](libs/proceeding.jpg){fig-align="center" width="80%"}
 
 :::
-:::
+::::
 
 ## Jenis artikel ilmiah 1️⃣ 
 
@@ -137,8 +137,8 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 
 ## Registered reports ([Chambers, 2015](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.12728))
 
-::: {.columns}
-::: {.column width="60%"}
+:::: {.columns}
+::: {.column width="55%"}
 
 ::: {.incremental}
 * Inovasi terbaru penerbitan ilmiah
@@ -156,7 +156,7 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 ![](libs/rr.PNG){fig-align="center"}
 
 :::
-:::
+::::
 
 # Lanskap jurnal ilmiah {background-color="#14497F" .center}
 
@@ -297,7 +297,7 @@ Lebih lengkap cek: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/
 ::: {.incremental}
 * **APC dan *waiver***: banyak jurnal OA bereputasi menyediakan *waiver* untuk penulis dari negara berpenghasilan menengah-bawah
   * Selalu **tanyakan *waiver*** jika tersedia
-***Turnaround time***: berapa lama biasanya dari *submit* hingga keputusan pertama?
+* ***Turnaround time***: berapa lama biasanya dari *submit* hingga keputusan pertama?
 * **Transparansi**: apakah proses *peer-review* dijelaskan dengan jelas? Berapa lama biasanya jurnal memproses naskah (_turnaround time_)?
 * **Komunikasi editorial**: apakah email selalu dijawab? Apakah ada kontak editorial yang jelas?
 * **Konten**: baca beberapa artikel, lalu nilai apakah kualitasnya konsisten dan memadai?
@@ -421,7 +421,7 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 
 ## Menulis adalah *skill*, bukan bakat
 
-::: {.columns}
+:::: {.columns}
 ::: {.column}
 ::: {.incremental}
 
@@ -438,7 +438,7 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 ![](libs/scienceishard.JPG)
 
 :::
-:::
+::::
 
 ## _Rejection_ bukan akhir dunia👍
 
