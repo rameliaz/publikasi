@@ -41,7 +41,7 @@ Klik _navigation bar_ yang mengarah pada PDF materi, kemudian tekan `ctrl` dan `
 Membahas **bagaimana dunia publikasi ilmiah bekerja**, dari lanskap penerbitan ilmiah sampai proses editorial di jurnal.
 
 - Apa tujuan publikasi ilmiah?
-- Moda komunikasi kesarjanaan dan jenis artikel ilmiah (*original research*, *systematic review*, *scoping review*, dll.)
+- Moda komunikasi kesarjanaan dan jenis artikel ilmiah 
 - Lanskap jurnal: penerbit, pangkalan data dan perbedaan jurnal OA vs. non-OA 
 - Mengenali dan menghindari jurnal/penerbit pemangsa (_predatory_)
 - Proses editorial: *submission*, *desk rejection*, *peer-review*, revisi, hingga terbit

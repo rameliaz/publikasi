@@ -42,7 +42,7 @@ execute:
 
 ::: {.callout-note}
 #### Create a research space (CARS)
-Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](https://marymount.edu/academics/wp-content/uploads/sites/3/2021/08/CARS-Model-of-Research-Introductions.pdf)) — *establish a territory → establish a niche → occupy the niche*.
+Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](https://marymount.edu/academics/wp-content/uploads/sites/3/2021/08/CARS-Model-of-Research-Introductions.pdf)) — *establish a territory <i class="fa-solid fa-circle-arrow-right"></i> establish a niche <i class="fa-solid fa-circle-arrow-right"></i> occupy the niche*.
 :::
 
 ## Menulis *Introduction* untuk *review articles*
@@ -79,7 +79,7 @@ Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](h
 * *Discussion* dan *Abstract* adalah **bagian yang paling sering dibaca** dalam sebuah artikel ilmiah
 * *Discussion* bukan ringkasan *Results*, tetapi **interpretasi dan sintesis** atas hasil penelitian
 * Tantangannya: harus **jujur** tentang keterbatasan, sekaligus tetap **meyakinkan** tentang kontribusi naskah
-* Banyak naskah yang datanya bagus tapi *Discussion*-nya lemah → ditolak atau diminta revisi mayor
+* Banyak naskah yang datanya bagus tapi *Discussion*-nya lemah <i class="fa-solid fa-circle-arrow-right"></i> ditolak atau diminta revisi mayor
 * Gunakan _hedging_ yang tepat ketika menulis _Discussion_, jangan _oversell_!
 :::
 
@@ -139,11 +139,11 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 * *Abstract* adalah bagian yang **paling sering dibaca** — tapi sebaiknya **ditulis paling terakhir**
 * Mengapa terakhir? Karena Anda baru bisa merangkum sesuatu yang sudah selesai ditulis
 * Prinsip: **satu kalimat per bagian** IMRAD
-  * 1 kalimat → latar belakang/konteks dan *research gap*
-  * 1 kalimat → pertanyaan penelitian / tujuan
-  * 1–2 kalimat → metode
-  * 1–2 kalimat → temuan utama
-  * 1 kalimat → implikasi/kesimpulan
+  * 1 kalimat <i class="fa-solid fa-circle-arrow-right"></i> latar belakang/konteks dan *research gap*
+  * 1 kalimat <i class="fa-solid fa-circle-arrow-right"></i> pertanyaan penelitian / tujuan
+  * 1–2 kalimat <i class="fa-solid fa-circle-arrow-right"></i> metode
+  * 1–2 kalimat <i class="fa-solid fa-circle-arrow-right"></i> temuan utama
+  * 1 kalimat <i class="fa-solid fa-circle-arrow-right"></i> implikasi/kesimpulan
 * *Abstract* harus bisa **berdiri sendiri**, pembaca yang tidak membaca naskah utuh tetap memahami isinya
 :::
 
@@ -151,7 +151,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 **Hindari**: menyalin kalimat langsung dari badan naskah. *Abstract* adalah **ringkasan yang berdiri sendiri**.
 :::
 
-## "_Ngeles_ dengan elegan" a.k.a. *hedging*
+## "_Ngeles_ dengan elegan"💅
 
 ::: {.incremental}
 * Semua penelitian punya keterbatasan <i class="fa-solid fa-circle-arrow-right"></i> **jangan disembunyikan**, justru tuliskan secara transparan
@@ -192,6 +192,10 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 
 Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
 :::
+
+## Menulis artikel penelitian = merayakan kesalahan🎉
+
+![](libs/science_means.png){fig-align="center"}
 
 # Strategi memilih jurnal yang tepat {background-color="#14497F" .center}
 
@@ -279,10 +283,10 @@ Selain *scope*, perhatikan hal-hal ini sebelum memutuskan:
 ## Strategi khusus untuk *review articles*
 
 ::: {.incremental}
-* *Scoping* dan *systematic review* punya masih punya tempat di komunitas ilmiah, tetapi kompetisi juga ketat
+* *Scoping* dan *systematic review* punya masih punya tempat di komunitas ilmiah, tetapi kompetisinya ketat
   - Ada tren _scoping_ dan _systematic review_ lebih sulit diterbitkan karena ada lonjakan tipe artikel yang sama yang berasal dari [_paper mill_](https://theconversation.com/paper-mills-the-cartel-like-companies-behind-fraudulent-scientific-journals-230124)
 * Sebelum menulis, lakukan **cek duplikasi**: apakah _review_ serupa sudah diterbitkan baru-baru ini?
-  * Jika ya → naskah Anda harus punya **nilai tambah** yang jelas
+  * Jika ya <i class="fa-solid fa-circle-arrow-right"></i> naskah Anda harus punya **nilai tambah** yang jelas
 * *Novelty* bisa datang dari: **populasi berbeda, konteks berbeda, periode lebih baru, metodologi lebih ketat**
   - Gunakan strategi _systematic search_ meskipun untuk _scoping review_
 * Beberapa jurnal punya ***section* khusus** untuk _review articles_, jadi prioritaskan jurnal-jurnal ini
@@ -388,9 +392,9 @@ Dari yang "paling ringan" hingga paling berat:
 ::: {.incremental}
 * Mengklaim lebih dari yang didukung data adalah *misconduct* yang **paling umum** — dan sering tidak disadari
 * Contoh *overselling* dalam *review articles*:
-  * *"Belum ada penelitian yang membahas ini"* → padahal ada, hanya belum dibaca dengan cermat
-  * *"Penelitian ini membuktikan bahwa X menyebabkan Y"* → review bukan RCT, tidak bisa klaim kausalitas
-  * *"Temuan ini akan mengubah cara pandang dunia"* → terlalu berlebihan untuk diklaim
+  * *"Belum ada penelitian yang membahas ini"* <i class="fa-solid fa-circle-arrow-right"></i> padahal ada, hanya belum dibaca dengan cermat
+  * *"Penelitian ini memberikan bukti yang tidak terbantahkan bahwa X menyebabkan Y"* <i class="fa-solid fa-circle-arrow-right"></i> *review* bukan RCT, tidak bisa mengklaim hubungan kausalitas
+  * *"Temuan penelitian ini akan menggegerkan dunia"* <i class="fa-solid fa-circle-arrow-right"></i> terlalu berlebihan untuk diklaim
 * Konsekuensi: **berkontribusi pada *replication crisis*** dan menyesatkan pembaca
 :::
 
