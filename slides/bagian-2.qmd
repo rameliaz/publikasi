@@ -31,7 +31,7 @@ execute:
 ## *Introduction*
 
 ::: {.incremental}
-* Banyak penulis memperlakukan *Introduction* sebagai "ringkasan literatur" — padahal fungsinya berbeda
+* Banyak penulis memperlakukan *Introduction* sebagai "ringkasan literatur", padahal fungsinya berbeda
 * *Introduction* harus menjawab **empat pertanyaan** secara berurutan:
   1. **Apa yang sudah diketahui?** — konteks dan *state of the art*
   2. **Apa yang belum diketahui/buktinya _mixed_?** — *research gap*
@@ -73,7 +73,7 @@ Model klasik yang berguna: **CARS** (*Create A Research Space*, [Swales, 1990](h
 
 # Menulis Discussion dan Abstract {background-color="#14497F" .center}
 
-## Mengapa menulis *Discussion* itu paling sulit?
+## Mengapa menulis *Discussion* itu susah sekali?
 
 ::: {.incremental}
 * *Discussion* dan *Abstract* adalah **bagian yang paling sering dibaca** dalam sebuah artikel ilmiah
@@ -106,7 +106,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
    * Rekomendasi untuk penelitian selanjutnya
 :::
 
-## Yang perlu dipastikan ada — dan yang perlu dihindari
+## Yang perlu dipastikan ada & yang perlu dihindari
 
 :::: {.columns}
 ::: {.column}
@@ -133,7 +133,7 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 :::
 ::::
 
-## Menulis *Abstract* — tulis paling terakhir
+## Menulis *Abstract* 
 
 ::: {.incremental}
 * *Abstract* adalah bagian yang **paling sering dibaca** — tapi sebaiknya **ditulis paling terakhir**
@@ -151,10 +151,10 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 **Hindari**: menyalin kalimat langsung dari badan naskah. *Abstract* adalah **ringkasan yang berdiri sendiri**.
 :::
 
-## "_Ngeles_ dengan elegan"
+## "_Ngeles_ dengan elegan" a.k.a. *hedging*
 
 ::: {.incremental}
-* Semua penelitian punya keterbatasan — **jangan disembunyikan**, justru tuliskan secara transparan
+* Semua penelitian punya keterbatasan <i class="fa-solid fa-circle-arrow-right"></i> **jangan disembunyikan**, justru tuliskan secara transparan
 * Tapi: membahas keterbatasan **bukan berarti _apologetic_** atas kekurangan penelitian Anda
 * "_Ngeles_ dengan elegan" = mengakui keterbatasan **sambil menunjukkan mengapa penelitian ini tetap valid dan punya kontribusi pada literatur**
 :::
@@ -179,10 +179,10 @@ Struktur *Discussion* yang baik mengalir dalam tiga bagian:
 ## Bagaimana membahas *null results*?
 
 ::: {.incremental}
-* Hasil "negatif" (*null*) dibahas **persis seperti hasil "positif"** — dengan struktur dan *flow* yang sama
+* Hasil "negatif" (*null*) dibahas **persis seperti hasil "positif"**, dengan struktur dan *flow* yang sama
 * Tidak ada perbedaan **cara** membahasnya, yang perlu diwaspadai adalah **bias editor**
-* Editor jurnal masih cenderung lebih menerima hasil "positif" → naskah *null results* lebih susah lolos
-* **TETAPI**: jika protokol studi sudah didaftarkan (*preregistration*) atau sudah melalui *Registered Report* sebelum pengambilan data → kemungkinan besar tetap akan dipublikasi *as it is*
+* Editor jurnal masih cenderung lebih menerima hasil "positif" {{< fa circle-arrow-right >}} naskah *null results* lebih susah lolos
+* **TETAPI**: jika protokol studi sudah didaftarkan (*preregistration*) atau sudah melalui *Registered Report* sebelum pengambilan data {{< fa circle-arrow-right >}} kemungkinan besar tetap akan dipublikasi *as it is*
 * Lebih detailnya, saya membahas [bagaimana cara melaporkan _null results_ disini](https://rameliaz.github.io/tutorial/hasilnegatif.html)
 :::
 
@@ -215,17 +215,17 @@ Temuan ini menguatkan dugaan bahwa ada _publication bias_ yang sistemik.
 ::: {.incremental}
 Berdasarkan panduan *submission* [*Psychological Science* (per 30 Januari 2026)](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions), alasan *desk reject* pada *initial editorial review* (Tier 1):
 
-* **Tipe artikel secara eksplisit tidak diharapkan** — *meta-analyses and other forms of evidence synthesis are **typically not considered***
-* **Aspek kebaruan yang ditawarkan kurang memadai** — harus *"address an issue that makes a difference in the way psychologists think"*; ekstensi inkremental tidak cukup kuat; penekanan pada **inovasi dalam tujuan penelitian dan desain**, bukan sekadar hasil penelitian
-* **_Overclaiming_** — kesimpulan yang tidak terkalibrasi dengan bukti atau keterbatasan desain *"are more likely to be rejected"*
-* **Ketidakcocokan antara desain dan tujuan** — antara *research aims* dan *research design*, atau antara *empirical results* dan *conclusions*
-* **Tanda-tanda fleksibilitas dalam menganalisis data** — *signs of flexibility in data collection or analysis* (e.g., *p-hacking*, perubahan hipotesis *post hoc*)
-* **Risiko tinggi *statistical inference error*** — *false positive/negative*, *inflated effect size*
+* **Tipe artikel secara eksplisit tidak diharapkan** <i class="fa-solid fa-circle-arrow-right"></i> *meta-analyses and other forms of evidence synthesis are **typically not considered***
+* **Aspek kebaruan yang ditawarkan kurang memadai** <i class="fa-solid fa-circle-arrow-right"></i> harus *"address an issue that makes a difference in the way psychologists think"*; ekstensi inkremental tidak cukup kuat; penekanan pada **inovasi dalam tujuan penelitian dan desain**, bukan sekadar hasil penelitian
+* **_Overclaiming_** <i class="fa-solid fa-circle-arrow-right"></i> kesimpulan yang tidak terkalibrasi dengan bukti atau keterbatasan desain *"are more likely to be rejected"*
+* **Ketidakcocokan antara desain dan tujuan** <i class="fa-solid fa-circle-arrow-right"></i> antara *research aims* dan *research design*, atau antara *empirical results* dan *conclusions*
+* **Tanda-tanda fleksibilitas dalam menganalisis data** <i class="fa-solid fa-circle-arrow-right"></i> *signs of flexibility in data collection or analysis* (e.g., *p-hacking*, perubahan hipotesis *post hoc*)
+* **Risiko tinggi *statistical inference error*** <i class="fa-solid fa-circle-arrow-right"></i> *false positive/negative*, *inflated effect size*
 :::
 
 ::: {.callout-warning}
 #### Pelajarannya
-*Desk reject* terjadi bukan hanya kualitas naskah yang dinilai kurang memadai — tetapi bisa juga karena **ketidakcocokan *scope*** dan penulis melakukan ***overclaim*** dalam naskahnya.
+*Desk reject* terjadi bukan hanya kualitas naskah yang dinilai kurang memadai, tetapi bisa juga karena **ketidakcocokan *scope*** dan penulis melakukan ***overclaim*** dalam naskahnya.
 :::
 
 ## 4️⃣®️ dalam memilih jurnal
@@ -544,7 +544,7 @@ Tuliskan **1 paragraf (150–200 kata)** yang menjawab:
 
 ::: {.callout-warning}
 #### Penting
-Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya membantu perbaikan, dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai _asisten_ (bukan penulis utama) dan laporkan secara transparan.
+Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan dengan intervensi dan *oversight* yang sangat mminimal (bukan hanya membantu perbaikan) dapat dikategorikan sebagai pelanggaran integritas akademik. Gunakan LLM sebagai _asisten_ (bukan penulis utama) dan laporkan secara transparan dalam artikel Anda.
 :::
 
 ## _LLM-based software_ yang [membantu saya](https://ameliazein.notion.site/Tinjauan-literatur-terstruktur-d6f40a3a7b7f45efbad1c2cff6e3c418?source=copy_link)
@@ -568,7 +568,7 @@ Menggunakan LLM untuk *menulis* naskah Anda secara keseluruhan, bukan hanya memb
 
 ## Ada pertanyaan❓
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV6ajJ5d3F3bzhrOXVoMzlsOXc1MzB4MWExdW1pZTQ2emptNWFnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7NuHL3gjbe2uGI/giphy.gif){fig-align="center"}
+![](libs/IMG_5380.JPG){fig-align="center"}
 
 ::: {.callout-note}
 * Paparan disusun dengan menggunakan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).

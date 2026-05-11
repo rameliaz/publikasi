@@ -19,13 +19,13 @@ execute:
 
 ## *Outline*
 
-* Mengapa publikasi itu penting?
+* Mengapa publikasi ilmiah penting?
 * Moda komunikasi kesarjanaan & jenis artikel
-* Lanskap jurnal ilmiah — *publisher*, pangkalan data, kategorisasi
-* Waspada jurnal/penerbit pemangsa
-* Bagaimana proses penerbitan ilmiah bekerja? — dari manuskrip ke publikasi
+* Lanskap jurnal ilmiah: Mengenal penerbit dan pangkalan data ilmiah (*scientific database*)
+* Mewaspadai jurnal/penerbit pemangsa
+* Bagaimana proses penerbitan ilmiah bekerja?
 * Struktur naskah ilmiah (IMRAD)
-* Naskah yang layak terbit — konten + presentasi naskah
+* Naskah yang layak terbit
 * Latihan menulis: *elevator pitch*
 
 # Mengapa publikasi itu penting? {background-color="#14497F" .center}
@@ -34,10 +34,12 @@ execute:
 
 ::: {.incremental}
 * Publikasi adalah cara pengetahuan **disebarluaskan, diuji, dan dikritisi** oleh komunitas ilmiah
-* **Tanggung jawab moral** peneliti — temuan yang tidak dipublikasikan adalah pengetahuan yang hilang
-* **Bukan** digunakan untuk mengukur kualitas peneliti, tetapi sebagai **kontribusi** pada perkembangan keilmuan
-* Memupuk *academic ethos* → **persistence** & **hardworking**
-* Bagian dari semangat *knowledge sharing* — ilmu yang baik harus bisa diakses dan diverifikasi
+* **Tanggung jawab moral** peneliti — temuan yang tidak dipublikasikan adalah pengetahuan yang "hilang" {{< fa circle-arrow-right >}} Ingat, apa dampak *publication bias*❓
+* **Bukan** digunakan untuk mengukur/menunjukkan "kapasitas pribadi" peneliti, tetapi sebagai **evaluasi** atas klaim yang diajukan oleh peneliti
+  - Oleh karena itu, kritik *reviewer* dan editor jangan dianggap sebagai sesuatu yang personal
+* Memupuk *academic ethos* {{< fa circle-arrow-right >}} [***organized skepticism***](https://www.bitss.org/education/mooc-parent-page/week-1/introduction-to-research-transparency-and-the-scientific-ethos/mertons-norms-and-the-scientific-ethos/)
+  - Klaim tidak mudah diterima begitu saja, harus diverifikasi dan di*scrutinize* seketat mungkin
+  - Oleh karena itu, riset (dan *eventually*, naskah publikasi) yang baik harus bisa dicoba-ulang (*replicate*) dan direka-ulang (*reproduce*) oleh tim peneliti yang lain ([Nosek, et al., 2022](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020821-114157))
 * **Langkah pertama** sebelum menulis adalah mengenali lanskap publikasi ilmiah dan memilih _outlet_ yang dituju untuk publikasi
 :::
 
@@ -46,14 +48,14 @@ execute:
 ::: {.incremental}
 * Naskah diterbitkan di jurnal palsu/pemangsa, akibatnya:
   * **Reputasi** tercederai — siapapun yang namanya tercantum: mahasiswa maupun promotor
-  * Merupakan indikasi bahwa peneliti memilih **jalan instan** (padahal keseluruhan prosesnya 'berliku-liku')
-  * **Mempersulit karir** dalam jangka panjang — baik akademik maupun struktural
-  * Khilaf satu-dua kali, *that's okay*. Tapi kalau berulang, ada indikasi ketidakjujuran
+  * Merupakan indikasi bahwa peneliti memilih **jalan instan** (padahal keseluruhan prosesnya umumnya tidak mudah)
+  * **Mempersulit karir** dalam jangka panjang — baik karir akademik maupun karir struktural
+  * Khilaf satu-dua kali, *that's okay*. Tapi kalau berulang, bisa ditengarai ada kemungkinan ketidakjujuran
 :::
 
 ::: {.callout-warning}
 ### Penting untuk memilah _outlet_ 
-Oleh karena itu, **memilah jurnal adalah proses yang sangat penting** — dan akan kita bahas lebih lanjut di sesi ini.
+Oleh karena itu, **memilah jurnal adalah proses yang sangat penting** dan akan kita bahas lebih lanjut di sesi ini.
 :::
 
 # Moda komunikasi & jenis artikel {background-color="#14497F" .center}
@@ -67,18 +69,36 @@ Oleh karena itu, **memilah jurnal adalah proses yang sangat penting** — dan ak
 Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 
 * **Monograf & bab buku** (*edited book*) — relevan khususnya di bidang humaniora dan ilmu sosial
-  - Magnum opus ilmuwan-ilmuwan yang berpengaruh dari bidang sosial-humaniora biasanya berupa monograf
-* ***Preprint*** — versi naskah *sebelum ditinjau sejawat (peer-review)*, diunggah ke server terbuka (e.g., PsyArXiv, OSF Preprints)
-* ***Postprint*** — versi naskah yang sudah ditinjau sejawat tetapi belum ditata letak sesuai gaya selingkung (_in-house style_) penerbit terbitan berkala ilmiah.
-* ***Conference paper*** / *proceedings* — presentasi di konferensi; berguna untuk membangun jaringan tetapi tidak selalu ditinjau sejawat
-  - Moda utama untuk sejawat di _computer_ dan _cognitive science_
-* **Artikel jurnal** — melalui proses tinjauan sejawat; yang paling diinginkan dalam PAK dan karir akademik
+  - *Magnum opus* ilmuwan-ilmuwan yang berpengaruh dari bidang sosial-humaniora biasanya berupa monograf
+* ***Pre-print*** — versi naskah *sebelum ditinjau sejawat (peer-review)*, diunggah ke server terbuka (e.g., PsyArXiv, OSF Preprints)
+* ***Post-print*** — versi naskah yang sudah ditinjau sejawat tetapi belum ditata letak sesuai gaya selingkung (_in-house style_) penerbit terbitan berkala ilmiah.
 :::
 
 :::
 ::: {.column width="40%"}
 
-![](libs/monograf.PNG){fig-align="center" width="80%"}
+![](libs/monograf.PNG){fig-align="center" width="90%"}
+
+:::
+:::
+
+## Moda komunikasi kesarjanaan
+
+::: {.columns}
+::: {.column width="60%"}
+
+::: {.incremental}
+Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
+
+* ***Conference paper*** / *proceedings* — presentasi di konferensi; berguna untuk membangun jaringan tetapi tidak selalu ditinjau sejawat
+  - Moda utama untuk sejawat di _computer_ dan _cognitive science_
+* **Artikel ilmiah yang diterbitkan di jurnal** — melalui proses tinjauan sejawat; yang paling diinginkan dalam karir akademik, utamanya di Psikologi
+:::
+
+:::
+::: {.column width="40%"}
+
+![](libs/proceeding.jpg){fig-align="center" width="80%"}
 
 :::
 :::
@@ -90,10 +110,10 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 
 * ***Original research*** (artikel empiris)
   - Pendek – satu atau dua studi
-  - Panjang – multiple studies article – bisa 4-12 studi dalam satu artikel
+  - Panjang – *multiple studies article* – bisa 4-12 studi dalam satu artikel
   - Artikel replikasi (_registered replication reports_ (RRR, [Simons, et al., 2014](https://journals.sagepub.com/doi/10.1177/1745691614543974)))
   - Artikel dengan protokol yang terdaftar sebelumnya (_preregistered studies_)
-  - Penelitian simulasi
+  - Penelitian simulasi - biasanya di psikometri atau *mathematical psychology*
 * ***Brief/short communication***
 * ***Case study/report***
 * [***Registered Report***](https://www.cos.io/initiatives/registered-reports) ⭐ — desain & hipotesis dinilai *reviewer* **sebelum** data dikumpulkan dan dianalisis
@@ -110,7 +130,7 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 * ***Methodological paper***
   - Tutorial, _book review_, _data paper_
 * ***Target article***
-  - _Target article_ → _Commentary_ → _Rejoinder_
+  - _Target article_ <i class="fa-solid fa-circle-arrow-right"></i> _Commentary_ <i class="fa-solid fa-circle-arrow-right"></i> _Rejoinder_
   - Biasanya _highly citable_ tetapi… kadang-kadang menjadi sumber “drama” karena memantik kontroversi dan debat yang ekstrim
   - Cenderung “spekulatif” tetapi biasanya banyak dibaca orang karena mengandung “prediksi teoritis.”
 :::
@@ -132,7 +152,7 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 :::
 :::
 
-::: {.column width="40%"}
+::: {.column width="45%"}
 ![](libs/rr.PNG){fig-align="center"}
 
 :::
@@ -147,17 +167,18 @@ Karya ilmiah dapat dikomunikasikan dalam berbagai bentuk:
 ::: {.incremental}
 Tiga komponen utama:
 
-* **Publisher/Penerbit** — entitas komersial/non-profit yang menerbitkan jurnal (e.g., Elsevier, SAGE, Springer, Airlangga _University Press_, UC Press, dsb.)
-* **Jurnal** (*standalone* atau di bawah naungan publisher) — tempat artikel diterbitkan
-* **Pangkalan data** (*database*) — basis data yang memungkinkan artikel ditemukan dan diakses, biasanya dilanggan oleh perpustakaan universitas
+* ***Publisher*/Penerbit** <i class="fa-solid fa-circle-arrow-right"></i> entitas komersial/non-profit yang menerbitkan jurnal (e.g., Elsevier, SAGE, Springer, Airlangga _University Press_, UC Press, dsb.)
+* **Jurnal** (*standalone* atau di bawah naungan penerbit) <i class="fa-solid fa-circle-arrow-right"></i> tempat artikel diterbitkan
+* **Pangkalan data ilmiah** (*scientific database*) <i class="fa-solid fa-circle-arrow-right"></i> basis data yang memungkinkan artikel ditemukan dan diakses, biasanya dilanggan oleh perpustakaan universitas
 :::
 :::
 ::: {.column}
 ::: {.callout-note}
 #### Analogi sederhana 🐔🥚
 
-* _Publisher_ = percetakan ↔️ produsen daging/rumah potong
-* Jurnal = majalah ilmiah ↔️ daging ayam
+* _Publisher_ = penerbit ↔️ produsen daging dan telur ayam
+* Jurnal = *outlet* tempat artikel diterbitkan ↔️ rumah potong
+* Artikel ilmiah ↔️ daging/telur ayam
 * _Database_ = perpustakaan digital ↔️ supermarket yang menjual daging ayam
 :::
 :::
@@ -171,29 +192,30 @@ Tiga komponen utama:
 * **Elsevier**, **Wiley**, **Springer/Nature**, **Taylor & Francis**, **SAGE**, **Oxford University Press**, **Cambridge University Press**
 * Masing-masing menerbitkan ratusan hingga ribuan jurnal
 * **Tidak semua jurnal** dari *publisher* besar otomatis berkualitas baik
-* Ada penerbit kecil/independen yang reputasinya justru sangat kuat (e.g., Brill)
-* Di Indonesia: **UP3** (Unit Publikasi Penelitian Psikologi), penerbit universitas (e.g., Airlangga _University Press_)
+* Ada penerbit kecil/independen yang reputasinya justru sangat kuat (e.g., [Brill](https://brill.com/?gad_source=1&gad_campaignid=22582347528))
+* Di Indonesia: penerbit universitas (e.g., Airlangga _University Press_, UGM *Press*, dsb.)
 :::
 
 ::: {.callout-note}
-*Standalone journal* seperti [**Bijdragen tot de taal-, land- en volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia**](https://brill.com/view/journals/bki/bki-overview.xml) tidak dimiliki oleh *publisher* besar, tetapi "dianggap" bereputasi. Ukuran penerbit tidak menentukan kualitas jurnal.
+*Standalone journal* seperti [**Bijdragen tot de taal-, land- en volkenkunde / Journal of the Humanities and Social Sciences of Southeast Asia**](https://brill.com/view/journals/bki/bki-overview.xml) tidak dimiliki oleh *publisher* besar, tetapi "dianggap" bereputasi di kalangan ilmuwan studi kawasan Asia Tenggara. Ukuran penerbit tidak menentukan kualitas jurnal.
 :::
 
 ## Pangkalan data (*database*)
 
 ::: {.incremental}
-* **Scopus** — indeks internasional paling umum digunakan di Indonesia (Elsevier)
-* **Web of Science (WoS)** / *Web of Knowledge* — lebih selektif dari Scopus
-* **APA PsycNET** — khusus literatur psikologi
-* **EBSCO**, **JSTOR** — multi-disiplin
-* **DOAJ** (*Directory of Open Access Journals*) — khusus jurnal *open access*
-* **SINTA** — pangkalan data nasional Indonesia (Kemdikbudristek)
-* **Google Scholar** — berguna untuk *menemukan* artikel, **bukan** untuk mengklaim kualitas jurnal
+* **Scopus** <i class="fa-solid fa-circle-arrow-right"></i> basis data internasional paling umum digunakan di Indonesia (milik Elsevier)
+* **Web of Science (WoS)** <i class="fa-solid fa-circle-arrow-right"></i> dianggap "lebih selektif" dari Scopus (milik Clarivate)
+* **APA PsycNET** <i class="fa-solid fa-circle-arrow-right"></i> khusus literatur psikologi
+* **PubMed** <i class="fa-solid fa-circle-arrow-right"></i> khusus literatur kesehatan
+* **EBSCO**, **JSTOR** <i class="fa-solid fa-circle-arrow-right"></i> multi-disiplin
+* **DOAJ** (*Directory of Open Access Journals*) <i class="fa-solid fa-circle-arrow-right"></i> khusus jurnal *open access*
+* **SINTA** <i class="fa-solid fa-circle-arrow-right"></i> pangkalan data nasional (dikelola Kemdikbudristek)
+* **Google Scholar** <i class="fa-solid fa-circle-arrow-right"></i> berguna untuk *mencari* artikel, umumnya **tidak digunakan** untuk mengklaim kualitas jurnal
 :::
 
 ::: {.callout-warning}
 #### Penting 
-Terindeks di Scopus ≠ berkualitas baik. Tidak terindeks = sinyal untuk waspada.
+Terindeks di Scopus ≠ berkualitas baik. Tidak terindeks = **bisa jadi** sinyal untuk waspada.
 :::
 
 ## *Open access* (OA) vs *non-OA journal*
@@ -202,7 +224,7 @@ Terindeks di Scopus ≠ berkualitas baik. Tidak terindeks = sinyal untuk waspada
 * ***Open access* (OA)**
   * Artikel bisa diakses bebas tanpa biaya langganan
   * Hak cipta (*copyrights*) **tetap** di tangan penulis
-  * Penulis biasanya membayar *Article Processing Charge* (APC) — **dibayar setelah naskah *accepted***
+  * Penulis biasanya membayar *Article Processing Charge* (APC) <i class="fa-solid fa-circle-arrow-right"></i> **dibayar setelah naskah *accepted***
 
 * ***Non-OA journal***
   * Pembaca membutuhkan biaya langganan yang mahal
@@ -212,7 +234,7 @@ Terindeks di Scopus ≠ berkualitas baik. Tidak terindeks = sinyal untuk waspada
 
 ::: {.callout-note}
 #### Penting diingat
-Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sangat bagus dan banyak *non-OA journal* yang kualitasnya rendah.
+Jenis akses **tidak berkaitan dengan kualitas**. Ada banyak jurnal OA yang sangat bagus dan banyak *non-OA journal* yang kualitasnya rendah.
 :::
 
 ## Jurnal berdasarkan *open access policy*
@@ -257,14 +279,14 @@ Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sa
 * **ISSN**: cek di portal ISSN resmi ([portal.issn.org](https://portal.issn.org))
 * **Cek kebijakan jurnal di _Open Policy Finder_**: cek kebijakan jurnal di [*Open Policy Finder*](https://openpolicyfinder.jisc.ac.uk/) (dulu SHERPA-RoMEO). Kalau jurnal terdaftar di laman terssebut, maka mungkin jurnal tersebut _legitimate_ (asli)
 * **Editorial board**: apakah editor dan reviewer dikenal? Berafiliasi dengan institusi yang jelas?
-* **Biaya**: apakah ada *submission charge* sebelum review? → 🔴**RED FLAG**🔴
+* **Biaya**: apakah ada *submission charge* sebelum review? <i class="fa-solid fa-circle-arrow-right"></i> 🔴**RED FLAG**🔴
   * APC yang ditagih **setelah *accepted*** = normal di jurnal OA bereputasi
 * **APC dan *waiver***: banyak jurnal OA bereputasi menyediakan *waiver* untuk penulis dari negara berpenghasilan menengah-bawah
   * Selalu **tanyakan *waiver*** jika tersedia
 ***Turnaround time***: berapa lama biasanya dari *submit* hingga keputusan pertama?
 * **Transparansi**: apakah proses *peer-review* dijelaskan dengan jelas? Berapa lama biasanya jurnal memproses naskah (_turnaround time_)?
 * **Komunikasi editorial**: apakah email selalu dijawab? Apakah ada kontak editorial yang jelas?
-* **Konten**: baca beberapa artikel — apakah kualitasnya konsisten dan memadai?
+* **Konten**: baca beberapa artikel, lalu nilai apakah kualitasnya konsisten dan memadai?
 :::
 
 ## *Think. Check. Submit.*
@@ -274,9 +296,9 @@ Jenis akses **tidak berkaitan dengan kualitas** — ada banyak jurnal OA yang sa
 ::: {.incremental}
 Tiga langkah **sebelum** memilih jurnal:
 
-1. **Think** 🔴 — apakah jurnal ini benar-benar cocok untuk topik naskah dan prospek karir saya ke depan?
-2. **Check** 🟡 — verifikasi identitas, proses editorial, dan reputasi jurnal
-3. **Submit** 🟢 — hanya setelah Anda yakin jurnal tersebut dikelola dengan baik dan sesuai dengan tujuan Anda
+1. **Think** 🔴 <i class="fa-solid fa-circle-arrow-right"></i> apakah jurnal ini benar-benar cocok untuk topik naskah dan prospek karir saya ke depan?
+2. **Check** 🟡 <i class="fa-solid fa-circle-arrow-right"></i> verifikasi identitas, proses editorial, dan reputasi jurnal
+3. **Submit** 🟢 <i class="fa-solid fa-circle-arrow-right"></i> hanya setelah Anda yakin jurnal tersebut dikelola dengan baik dan sesuai dengan tujuan Anda
 
 Lebih lengkap cek: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/)
 :::
@@ -286,30 +308,30 @@ Lebih lengkap cek: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/
 ## Dari manuskrip ke publikasi 1️⃣
 
 ::: {.incremental}
-1. **Submit** — mendaftarkan naskah ke sistem jurnal (biasanya *online*)
-2. ***Initial assessment*** — editor memutuskan:
+1. **Submit** <i class="fa-solid fa-circle-arrow-right"></i> mendaftarkan naskah ke sistem jurnal (biasanya *online*)
+2. ***Initial assessment*** <i class="fa-solid fa-circle-arrow-right"></i> editor memutuskan:
    * Apakah naskah sesuai *scope* jurnal?
    * Apakah kualitas awal memadai untuk dikirim ke *reviewer*?
    * Jika tidak → ***desk reject*** (biasanya dalam 1–2 minggu, tapi bisa lebih lama)
-3. ***Peer-review*** — naskah dikirim ke 2–3 (atau lebih) *reviewer* ahli di bidang yang relevan
+3. ***Peer-review*** <i class="fa-solid fa-circle-arrow-right"></i> naskah dikirim ke 2–3 (atau lebih) *reviewer* ahli di bidang yang relevan
 :::
 
 ## Dari manuskrip ke publikasi 2️⃣
 
 ::: {.incremental}
 4. **Keputusan editor** setelah *review*:
-   * ***Major revision*** — perlu revisi substansial, kemungkinan re-review
-   * ***Minor revision*** — revisi kecil, biasanya tidak perlu re-review
-   * ***Rejection*** — ditolak (tapi bukan akhir dunia!😉)
-   * ***Accept*** — langsung diterima tanpa revisi (sangat jarang)
-5. **Revisi** — penulis merespons masukan *reviewer* secara tertulis (*response to reviewers*)
-6. **(Re-)review** — kadang kembali ke *reviewer* untuk evaluasi revisi
-7. ***Copyediting* & *proofreading*** → **Terbit** (*published*)
+   * ***Major revision*** <i class="fa-solid fa-circle-arrow-right"></i> perlu revisi substansial, kemungkinan re-review
+   * ***Minor revision*** <i class="fa-solid fa-circle-arrow-right"></i> revisi kecil, biasanya tidak perlu re-review
+   * ***Rejection*** <i class="fa-solid fa-circle-arrow-right"></i> ditolak (tapi bukan akhir dunia!😉)
+   * ***Accept*** <i class="fa-solid fa-circle-arrow-right"></i> langsung diterima tanpa revisi (sangat jarang)
+5. **Revisi** <i class="fa-solid fa-circle-arrow-right"></i> penulis merespons masukan *reviewer* secara tertulis (*response to reviewers*)
+6. **(Re-)review** <i class="fa-solid fa-circle-arrow-right"></i> kadang kembali ke *reviewer* untuk evaluasi revisi
+7. ***Copyediting* & *proofreading*** {{< fa circle-arrow-right >}} **Terbit** (*published*)
 :::
 
 ::: {.callout-note}
 #### Waktu proses 
-2 minggu (*desk reject*) hingga **12 bulan+** (sejak *submit* hingga terbit). _Turnaround time_ saat ini bisa lebih lama karena editor umumnya kesulitan mencari _reviewer_.
+2 minggu (*desk reject*) hingga **12 bulan+** (sejak *submit* hingga terbit). _Turnaround time_ saat ini bisa lebih lama karena tren saat ini, editor kesulitan mencari _reviewer_.
 :::
 
 ## *Desk rejection*
@@ -318,15 +340,15 @@ Lebih lengkap cek: [thinkchecksubmit.org](https://thinkchecksubmit.org/journals/
 * ***Desk rejection rate*** di jurnal bereputasi bisa mencapai **60–76%** ([Billsberry, 2014](https://journals.sagepub.com/doi/full/10.1177/1052562913517209))
   - Artinya: mayoritas naskah tidak pernah sampai ke tangan *reviewer*
 * Penyebab utama *desk rejection*:
-  * ***Scope* tidak sesuai** — naskah tidak relevan dengan fokus jurnal
-  * **Kualitas awal tidak memadai** — tulisan tidak memenuhi standar jurnal, meskipun "standar" disini bisa jadi penilaian subjektif dari editor
-  * **Format/teknis** — tidak mengikuti *author guidelines*
-  * **Bahasa** — terutama hambatan bagi penulis non-penutur asli bahasa Inggris
+  * ***Scope* tidak sesuai** <i class="fa-solid fa-circle-arrow-right"></i> naskah tidak relevan dengan fokus jurnal
+  * **Kualitas awal tidak memadai** <i class="fa-solid fa-circle-arrow-right"></i> tulisan tidak memenuhi standar jurnal, meskipun "standar" disini bisa jadi penilaian subjektif dari editor
+  * **Format/teknis** <i class="fa-solid fa-circle-arrow-right"></i> tidak mengikuti *author guidelines*
+  * **Bahasa** <i class="fa-solid fa-circle-arrow-right"></i> terutama hambatan bagi penulis non-penutur asli bahasa Inggris
 :::
 
 ::: {.callout-warning}
 #### Catatan penting ([Garand & Harman, 2021](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/journal-deskrejection-practices-in-political-science-bringing-data-to-bear-on-what-journals-do/770D08D05782CC873E625E873815023A)) 
-Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih rentan terkena *desk rejection* — ini adalah *gatekeeping* struktural dalam sistem publikasi ilmiah global yang perlu disadari.
+Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih rentan terkena *desk rejection*. Harus disadari bahwa beberapa *desk rejection* adalah bentuk *gatekeeping* struktural dalam sistem publikasi ilmiah, yang hampir selalu merugikan peneliti dari kawasan selatan-selatan.
 :::
 
 ## Siapa saja yang terlibat?
@@ -369,10 +391,9 @@ Peneliti dari negara non-berbahasa Inggris dan *early career researcher* lebih r
 Kompromi antara semua pihak di _slide_ sebelumnya. Naskah yang baik:
 
 * **Ide penelitian bisa jadi sederhana** tapi dieksekusi dengan desain penelitian yang baik
-* Menyajikan **penjelasan yang langsung pada intinya** — tidak berputar-putar, membuat pembaca bingung
-* Melakukan **eksplorasi yang menyeluruh** atas literatur yang relevan — ini tampak di *state-of-the-art* yang dipaparkan di bagian *introduction*
-* Menghasilkan **temuan/sintesis yang substansial** — bukan sekadar deskripsi
-* ***Concise*** — _to-the-point_, tapi dengan **argumentasi yang kuat**
+* Menyajikan **penjelasan yang langsung pada intinya** (*concise*), tidak berputar-putar yang membuat pembaca bingung
+* Melakukan **eksplorasi yang menyeluruh** atas literatur yang relevan, ayng biasanya tampak di *state-of-the-art* yang dipaparkan di bagian *introduction*
+* Menghasilkan **sintesis/diskusi dengan kontribusi keilmuan yang jelas**, bukan sekadar mendeskripsikan hasil statistik/wawancara
 * Ditulis dengan **tata bahasa yang baik**
 :::
 
@@ -387,12 +408,12 @@ Kompromi antara semua pihak di _slide_ sebelumnya. Naskah yang baik:
 ::: {.incremental}
 Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 
-* **Konten** → terkait dengan:
+* **Konten** {{< fa circle-arrow-right >}} terkait dengan:
   * Pertanyaan penelitian yang **jelas dan relevan**
   * Metode yang **sesuai dan dijelaskan dengan detail dan transparan** (sehingga bisa direplikasi)
   * Sintesis/temuan yang **menjawab pertanyaan penelitian**
 
-* **Presentasi** → aspek teknis:
+* **Presentasi** {{< fa circle-arrow-right >}} aspek teknis:
   * Tata bahasa yang baik dan konsisten
   * Sistematika yang logis dan mengalir
   * Format sesuai *author guidelines* jurnal yang dituju
@@ -401,10 +422,10 @@ Untuk menghasilkan naskah yang baik, perhatikan dua dimensi:
 ## Menulis adalah *skill*, bukan bakat
 
 ::: {.incremental}
-* Banyak naskah yang tak layak muat bukan karena penelitiannya buruk — tapi *simply* **tidak ditulis dengan baik**
-* Menulis naskah yang baik **dapat dilatih** — *continuous improvement* adalah kuncinya
+* Banyak naskah yang tak layak muat bukan karena penelitiannya buruk, tapi *simply* **tidak ditulis dengan baik**
+* Menulis naskah yang baik **dapat dilatih** <i class="fa-solid fa-circle-arrow-right"></i> *continuous improvement* adalah kuncinya
 * Dengan terus menulis dan mendapatkan *feedback*, kemampuan kita terus berkembang
-* *Feedback* dari *reviewer* kadang terasa sangat menyakitkan — tapi **jangan sampai membuat kita demotivasi**
+* *Feedback* dari *reviewer* kadang terasa sangat menyakitkan, tapi **jangan sampai membuat kita demotivasi**
 * Hampir **semua** peneliti senior pernah mengalami penolakan berulang sebelum berhasil terbit
 :::
 
@@ -466,7 +487,7 @@ Masalah: terlalu umum, tidak ada kesenjangan yang jelas, pertanyaan penelitian t
 
 ## Ada pertanyaan❓
 
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV6ajJ5d3F3bzhrOXVoMzlsOXc1MzB4MWExdW1pZTQ2emptNWFnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7NuHL3gjbe2uGI/giphy.gif){fig-align="center"}
+![](libs/IMG_5380.JPG){fig-align="center"}
 
 ::: {.callout-note}
 * Paparan disusun dengan menggunakan [**Quarto**](https://quarto.org) dengan *template* dari [UNAIR Theme](https://github.com/rameliaz/quarto-unair-theme).
